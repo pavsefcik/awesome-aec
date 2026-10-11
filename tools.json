@@ -180,6 +180,16 @@
     "notes": ""
   },
   {
+    "name": "Rayon",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "Collaborative online CAD for architectural drawings.",
+    "url": "https://www.rayon.design/",
+    "market": "European, architecture-first; appealing to smaller studios and design-led teams in FR, CH and DE.",
+    "maturity": "Emerging",
+    "buyer": "architects · small studios",
+    "notes": ""
+  },
+  {
     "name": "Snaptrude",
     "category": "Emerging Design & AI-Native Platforms",
     "description": "Browser-based collaborative building modelling.",
@@ -217,16 +227,6 @@
     "market": "Early-stage European-origin platform; potential relevance in CH/DE/FR, but still niche.",
     "maturity": "Emerging",
     "buyer": "BIM managers · model authors",
-    "notes": ""
-  },
-  {
-    "name": "Rayon",
-    "category": "Emerging Design & AI-Native Platforms",
-    "description": "Collaborative online CAD for architectural drawings.",
-    "url": "https://www.rayon.design/",
-    "market": "European, architecture-first; appealing to smaller studios and design-led teams in FR, CH and DE.",
-    "maturity": "Emerging",
-    "buyer": "architects · small studios",
     "notes": ""
   },
   {
@@ -350,16 +350,6 @@
     "notes": "⚠ Funding figures conflict across sources (Suffolk Technologies investment, Apr 2026)."
   },
   {
-    "name": "Bimface (Glodon)",
-    "category": "Open BIM, Interoperability & Data",
-    "description": "Cloud BIM viewing, collaboration and development platform.",
-    "url": "https://bimface.com/",
-    "market": "Strongest in China and Asia; limited mainstream presence in FR, CH, DE or US. Chinese-language product.",
-    "maturity": "Established (Asia)",
-    "buyer": "developers · platform builders",
-    "notes": ""
-  },
-  {
     "name": "IfcOpenShell",
     "category": "Open BIM, Interoperability & Data",
     "description": "Open-source toolkit for reading, writing and processing IFC.",
@@ -391,7 +381,7 @@
   },
   {
     "name": "xFigura",
-    "category": "Open BIM, Interoperability & Data",
+    "category": "AI Design Workspaces & Agents",
     "description": "AI-powered BIM data and model intelligence tool; collaborative AI canvas with Rhino/Revit integrations.",
     "url": "https://www.xfigura.ai",
     "market": "Early-stage; likely niche adoption.",
@@ -400,18 +390,8 @@
     "notes": ""
   },
   {
-    "name": "FORMAS.AI",
-    "category": "Open BIM, Interoperability & Data",
-    "description": "AI platform turning sketches into 2D visuals, 3D models and client-ready boards.",
-    "url": "https://www.formas.ai",
-    "market": "Early-stage; market presence still forming.",
-    "maturity": "Emerging",
-    "buyer": "architects · marketing & BD teams",
-    "notes": ""
-  },
-  {
     "name": "Synaps",
-    "category": "Open BIM, Interoperability & Data",
+    "category": "AI Design Workspaces & Agents",
     "description": "AI tool that imports DXF/PDF, drafts documentation and generates floor plans.",
     "url": "https://synaps.app",
     "market": "Early-stage/niche.",
@@ -421,7 +401,7 @@
   },
   {
     "name": "Arkyv",
-    "category": "Open BIM, Interoperability & Data",
+    "category": "AI Design Workspaces & Agents",
     "description": "AI platform for architectural project data and archives — BIM task automation, code/standards search with citations.",
     "url": "https://www.arkyv.ai",
     "market": "Early-stage/niche.",
@@ -430,18 +410,8 @@
     "notes": "⚠ arkyv.org is an unrelated text-world engine."
   },
   {
-    "name": "Narva AI",
-    "category": "Open BIM, Interoperability & Data",
-    "description": "AI assistant/tooling for AEC workflows — renders, style transfer, video and 3D.",
-    "url": "https://www.narva.ai",
-    "market": "Early-stage/niche.",
-    "maturity": "Emerging",
-    "buyer": "architects · interior designers",
-    "notes": ""
-  },
-  {
     "name": "AIRI lab",
-    "category": "Open BIM, Interoperability & Data",
+    "category": "AI Design Workspaces & Agents",
     "description": "AI research and tools for the built environment — concept generation, cloud generative 3D, agentic workflows.",
     "url": "https://airilab.com",
     "market": "Early-stage/niche.",
@@ -451,7 +421,7 @@
   },
   {
     "name": "Reer",
-    "category": "Open BIM, Interoperability & Data",
+    "category": "AI Design Workspaces & Agents",
     "description": "Agentic layer automating Rhino, Grasshopper and Revit workflows.",
     "url": "https://www.reer.co",
     "market": "Early-stage/niche.",
@@ -461,7 +431,7 @@
   },
   {
     "name": "Versur",
-    "category": "Open BIM, Interoperability & Data",
+    "category": "AI Design Workspaces & Agents",
     "description": "---",
     "url": "https://versur.ai",
     "market": "Early-stage/niche.",
@@ -471,7 +441,7 @@
   },
   {
     "name": "D5 Render",
-    "category": "Visualization — Architecture-Specific",
+    "category": "Visualization & Rendering",
     "description": "Real-time architectural rendering and visualization, with live links to Revit/SketchUp/Rhino.",
     "url": "https://www.d5render.com/",
     "market": "Growing challenger, with increasing adoption among younger visualization teams internationally.",
@@ -481,7 +451,7 @@
   },
   {
     "name": "Enscape",
-    "category": "Visualization — Architecture-Specific",
+    "category": "Visualization & Rendering",
     "description": "Real-time rendering plugin for Revit, Archicad, SketchUp and Rhino.",
     "url": "https://www.chaos.com/enscape",
     "market": "Very strong in architecture practices across US, CH, DE and FR; common because of Revit/Archicad integration.",
@@ -491,7 +461,7 @@
   },
   {
     "name": "V-Ray",
-    "category": "Visualization — Architecture-Specific",
+    "category": "Visualization & Rendering",
     "description": "High-end photorealistic rendering engine.",
     "url": "https://www.chaos.com/vray",
     "market": "Established globally among visualization specialists and larger firms.",
@@ -501,7 +471,7 @@
   },
   {
     "name": "Lumion",
-    "category": "Visualization — Architecture-Specific",
+    "category": "Visualization & Rendering",
     "description": "Fast architectural rendering and animation.",
     "url": "https://lumion.com/",
     "market": "Broad architectural adoption in Europe and the US; especially popular for fast external visuals.",
@@ -511,17 +481,17 @@
   },
   {
     "name": "Veras",
-    "category": "Visualization — Architecture-Specific",
+    "category": "AI Visualization & Imagery — Architecture-Specific",
     "description": "AI-enhanced architectural rendering and image iteration, driven from Revit, Rhino, SketchUp, Archicad or Vectorworks.",
     "url": "https://www.evolvelab.io/veras",
-    "market": "Early-stage AI visualization; adoption among firms experimenting with AI workflows. Chaos acquired EvolveLAB (Feb 2025); still sold standalone.",
+    "market": "Early-stage AI visualization; adoption among firms experimenting with AI workflows.",
     "maturity": "Growing",
     "buyer": "architects · visualization teams",
     "notes": ""
   },
   {
     "name": "Rendair",
-    "category": "Visualization — Architecture-Specific",
+    "category": "AI Visualization & Imagery — Architecture-Specific",
     "description": "AI-generated architectural visuals and renderings from sketches, plans and models.",
     "url": "https://rendair.ai/",
     "market": "Early-stage; likely strongest among smaller studios and marketing/competition workflows. An AI renderer, not distributed-compute rendering.",
@@ -531,7 +501,7 @@
   },
   {
     "name": "Visoid",
-    "category": "Visualization — Architecture-Specific",
+    "category": "AI Visualization & Imagery — Architecture-Specific",
     "description": "AI visualization for architectural concepts, preserving imported model geometry.",
     "url": "https://www.visoid.com/",
     "market": "Early-stage/niche. $2.5M round, Aug 2026.",
@@ -541,12 +511,32 @@
   },
   {
     "name": "Gendo",
-    "category": "Visualization — Architecture-Specific",
+    "category": "AI Visualization & Imagery — Architecture-Specific",
     "description": "---",
     "url": "https://www.gendo.ai/",
     "market": "Early-stage/niche.",
     "maturity": "Emerging",
     "buyer": "architects · client-facing teams",
+    "notes": ""
+  },
+  {
+    "name": "Narva AI",
+    "category": "AI Visualization & Imagery — Architecture-Specific",
+    "description": "AI assistant/tooling for AEC workflows — renders, style transfer, video and 3D.",
+    "url": "https://www.narva.ai",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging",
+    "buyer": "architects · interior designers",
+    "notes": ""
+  },
+  {
+    "name": "FORMAS.AI",
+    "category": "AI Visualization & Imagery — Architecture-Specific",
+    "description": "AI platform turning sketches into 2D visuals, 3D models and client-ready boards.",
+    "url": "https://www.formas.ai",
+    "market": "Early-stage; market presence still forming.",
+    "maturity": "Emerging",
+    "buyer": "architects · marketing & BD teams",
     "notes": ""
   },
   {
@@ -584,7 +574,7 @@
     "category": "AI Imagery & Creative Tools — General-Purpose",
     "description": "AI image-generation platform for creative workflows.",
     "url": "https://leonardo.ai/",
-    "market": "General creative AI; used for moodboards and concept exploration. Acquired by Canva (Jul 2024); merging into Canva through 2026.",
+    "market": "General creative AI; used for moodboards and concept exploration.",
     "maturity": "Growing",
     "buyer": "designers · marketers",
     "notes": ""
@@ -614,7 +604,7 @@
     "category": "AI Imagery & Creative Tools — General-Purpose",
     "description": "Node-based canvas combining many AI models for image/video/motion.",
     "url": "https://weave.figma.com/",
-    "market": "More product/UX-oriented than AEC-specific; relevant to digital design teams. Ex-Weavy; acquired by Figma (Oct 2025).",
+    "market": "More product/UX-oriented than AEC-specific; relevant to digital design teams.",
     "maturity": "Emerging",
     "buyer": "digital & product designers",
     "notes": ""
@@ -714,7 +704,7 @@
     "category": "Practice Operations & AI for AEC Firms",
     "description": "Practice management for architecture firms: projects, time, fees and staffing.",
     "url": "https://www.ooti.co/",
-    "market": "French-origin practice-management platform; strongest natural fit in FR, with potential in other European markets. Acquired by Milient Software (Feb 2026); 900+ firms.",
+    "market": "French-origin practice-management platform; strongest natural fit in FR, with potential in other European markets. 900+ firms.",
     "maturity": "Established (FR)",
     "buyer": "principals · practice managers (architecture firms)",
     "notes": ""
@@ -744,7 +734,7 @@
     "category": "Reality Capture & Digital Twins",
     "description": "3D capture and digital twins for spaces and buildings.",
     "url": "https://matterport.com/",
-    "market": "Broad adoption in real estate, facilities and construction documentation across all four markets. Acquired by CoStar Group (completed Feb 2025).",
+    "market": "Broad adoption in real estate, facilities and construction documentation across all four markets.",
     "maturity": "Established",
     "buyer": "owners · facility managers · real-estate marketers",
     "notes": ""
@@ -1148,45 +1138,5 @@
     "maturity": "Emerging",
     "buyer": "AEC professionals · firms (Hong Kong)",
     "notes": ""
-  },
-  {
-    "name": "RELEASE [AEC]",
-    "category": "Events & Signal Sources",
-    "description": "Paris, Cité des Sciences — AEC conference and liveness signal.",
-    "url": "https://www.release-aec.com/",
-    "market": "",
-    "maturity": "",
-    "buyer": "",
-    "notes": "Sponsors are a useful liveness signal, not a quality signal. ~30 entries above came from here."
-  },
-  {
-    "name": "buildingtech.pro",
-    "category": "Events & Signal Sources",
-    "description": "619 AEC tools scored 1–5 on maturity, specificity, integration, value and evidence, plus red flags.",
-    "url": "https://buildingtech.pro/",
-    "market": "",
-    "maturity": "",
-    "buyer": "",
-    "notes": "An independent scoring reference for the tools listed above."
-  },
-  {
-    "name": "Cambashi BIM/AECO Observatory",
-    "category": "Events & Signal Sources",
-    "description": "Paid market-share data across 53+ countries.",
-    "url": "https://cambashi.com/bim/",
-    "market": "",
-    "maturity": "",
-    "buyer": "",
-    "notes": "The commercial source of record for BIM market-share claims."
-  },
-  {
-    "name": "GEM Revit market share report",
-    "category": "Events & Signal Sources",
-    "description": "---",
-    "url": "https://www.gemdsb.com/blog/revit-market-share-2026-report",
-    "market": "",
-    "maturity": "",
-    "buyer": "",
-    "notes": "Third-party source for Revit adoption figures quoted in market notes."
   }
 ]
