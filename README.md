@@ -1,10 +1,7 @@
 # Awesome AEC
 
 A working inventory of software, platforms and tools used across architecture, engineering,
-construction and the built environment — **114 entries across 15 categories**.
-
-Machine-readable versions of the same data: **[`tools.csv`](tools.csv)** · **[`tools.json`](tools.json)**
-(fields: `name`, `category`, `description`, `url`, `market`, `maturity`, `buyer`, `notes`).
+construction and the built environment — **107 entries across 15 categories**.
 
 Each entry follows the same shape:
 
@@ -13,10 +10,11 @@ Each entry follows the same shape:
 > **Market** — directional read on adoption across **FR**, **CH**, **DE** and **US**, plus maturity.
 > **Buyer** — who actually uses it: architect · engineer · contractor · owner · BIM manager · visualization artist, etc.
 
-Categories follow a functional grouping: design and CAD, computation and 3D, emerging design
-platforms, engineering, openBIM and data, AI design workspaces, visualization (render engines
-vs AI imagery, each split architecture-specific vs general-purpose), practice operations,
-reality capture, coordination/CDE, sustainability, urban research and products.
+Categories are ordered architecture-first: design and CAD, computation and 3D,
+emerging and AI-native design platforms, AI design workspaces, visualization (render
+engines vs AI imagery, each split architecture-specific vs general-purpose), products
+and specifications, practice operations, urban research, then the engineering,
+openBIM, sustainability, capture and construction categories.
 
 > **Reading the market column.** Adoption notes are directional, not exhaustive — they vary by
 > firm size, discipline and whether the work is architecture, engineering, construction or real
@@ -25,6 +23,7 @@ reality capture, coordination/CDE, sustainability, urban research and products.
 > **⚠ Caveats** flag ambiguous domains, name collisions or tools that are not commercial
 > products (e.g. research prototypes). Verified **October 2026**.
 
+---
 ---
 
 ## Design & CAD
@@ -81,6 +80,7 @@ Open-source parametric 3D CAD modeller.
 
 ---
 
+---
 
 ## Computational & Specialist 3D
 
@@ -126,6 +126,7 @@ Cloud tool for early-stage site, massing and environmental design.
 
 ---
 
+---
 
 ## Emerging Design & AI-Native Platforms
 
@@ -191,54 +192,7 @@ Real-time structural design and analysis with live carbon feedback.
 
 ---
 
-
-## Structural & MEP Engineering
-
-#### [ETABS](https://www.csiamerica.com/products/etabs)
-Structural analysis and design of buildings.
-**Market:** Strong in US and international high-rise/building engineering; used by specialized structural firms in Europe. **Established.**
-**Buyer:** structural engineers
-
-#### [Dlubal RFEM](https://www.dlubal.com/en)
-FEM structural analysis and design software.
-**Market:** Very strong in DACH — especially Germany and Switzerland — and increasingly used elsewhere in Europe. **Established.**
-**Buyer:** structural engineers
-
-#### [IDEA StatiCa](https://www.ideastatica.com/)
-Steel connection and structural joint design.
-**Market:** Strong among structural engineers and fabricators in Europe including CH, DE and FR; growing US adoption. **Growing.**
-**Buyer:** structural engineers · fabricators
-
-#### [MagiCAD](https://www.magicad.com/)
-MEP design and calculation inside BIM platforms.
-**Market:** Especially established in Northern Europe and DACH; relevant where Revit-based MEP design is standardized. **Established.**
-**Buyer:** MEP engineers
-
 ---
-
-
-## Open BIM, Interoperability & Data
-
-#### [Speckle](https://speckle.systems/)
-Open platform for sharing and versioning AEC model data.
-**Market:** Strong with computational and openBIM-oriented teams globally; growing in CH, DE, FR and US. **Growing.** ⚠ Funding figures conflict across sources (Suffolk Technologies investment, Apr 2026).
-**Buyer:** computational designers · BIM managers · developers
-
-#### [IfcOpenShell](https://ifcopenshell.org/)
-Open-source toolkit for reading, writing and processing IFC.
-**Market:** Global open-source standard for IFC automation; used by BIM managers and developers. **Established (open source).**
-**Buyer:** developers · BIM managers
-
-#### [Bonsai](https://bonsaibim.org/)
-Open-source BIM authoring built on Blender.
-**Market:** Emerging Blender-based BIM workflow; niche but relevant to openBIM communities in Europe. **Emerging (open source).**
-**Buyer:** openBIM architects · Blender users
-
-#### [xBIM Toolkit](https://github.com/xBimTeam/XbimEssentials)
-.NET toolkit for building IFC/BIM applications.
-**Market:** Developer-oriented; used in custom BIM solutions rather than by typical design teams. **Emerging (open source).**
-**Buyer:** .NET developers
-
 
 ## AI Design Workspaces & Agents
 
@@ -274,6 +228,7 @@ Composable agentic AI across Rhino and Grasshopper.
 
 ---
 
+---
 
 ## Visualization & Rendering
 
@@ -297,8 +252,10 @@ Fast architectural rendering and animation.
 **Market:** Broad architectural adoption in Europe and the US; especially popular for fast external visuals. **Established.**
 **Buyer:** architects · landscape architects
 
+---
 
 ## AI Visualization & Imagery — Architecture-Specific
+
 #### [Veras](https://www.evolvelab.io/veras)
 AI-enhanced architectural rendering and image iteration, driven from Revit, Rhino, SketchUp, Archicad or Vectorworks.
 **Market:** Early-stage AI visualization; adoption among firms experimenting with AI workflows. **Growing.**
@@ -319,8 +276,6 @@ AI image generation for architectural visualization — material tests, planning
 **Market:** Early-stage/niche. **Emerging.**
 **Buyer:** architects · client-facing teams
 
----
-
 #### [Narva AI](https://www.narva.ai)
 AI assistant/tooling for AEC workflows — renders, style transfer, video and 3D.
 **Market:** Early-stage/niche. **Emerging.**
@@ -331,20 +286,9 @@ AI platform turning sketches into 2D visuals, 3D models and client-ready boards.
 **Market:** Early-stage; market presence still forming. **Emerging.**
 **Buyer:** architects · marketing & BD teams
 
+---
+
 ## AI Imagery & Creative Tools — General-Purpose
-
-#### 
-*Not AEC-specific. Included because they are widely used in concept imagery, marketing and visualization workflows.*
-
-#### [Runway](https://runway.com/)
-AI video and image generation/editing and world models.
-**Market:** Not AEC-specific; used for concept imagery, marketing and narrative visualization globally. **Growing.** ⚠ Video, not architectural software.
-**Buyer:** marketing teams · concept designers
-
-#### [Nano Banana](https://deepmind.google/models/gemini-image/pro/)
-Google DeepMind's Gemini image generation and editing models.
-**Market:** General-purpose AI imaging; not AEC-specific. **Growing.** ⚠ A model, not a product — increasingly embedded in other tools.
-**Buyer:** designers · marketers
 
 #### [Midjourney](https://www.midjourney.com/)
 AI image generator for concepts and visual exploration.
@@ -386,8 +330,40 @@ AI generation of 3D models and textures.
 **Market:** Emerging; useful for concept massing, assets and game-like environments rather than construction documentation. **Emerging.**
 **Buyer:** concept artists · game & viz teams
 
+#### [Runway](https://runway.com/)
+AI video and image generation/editing and world models.
+**Market:** Not AEC-specific; used for concept imagery, marketing and narrative visualization globally. **Growing.** ⚠ Video, not architectural software.
+**Buyer:** marketing teams · concept designers
+
 ---
 
+---
+
+## Materials, Products & Specifications
+
+#### [Material Bank](https://www.materialbank.com/)
+Fast sampling and material library for architecture and interiors.
+**Market:** Strong in US architecture and interiors; expanding internationally including European design markets. 45k+ materials / 450+ brands. **Established.**
+**Buyer:** architects · interior designers
+
+#### [Architonic](https://www.architonic.com/)
+Product directory and inspiration platform for design professionals.
+**Market:** Strong in Europe, especially CH, DE and FR; widely used by architects and interior designers. ⚠ Catalogue figures are self-reported. **Established.**
+**Buyer:** architects · interior designers · specifiers
+
+#### [BIMobject](https://www.bimobject.com/en)
+Marketplace for manufacturer BIM objects and product data.
+**Market:** Global manufacturer-content platform; strong in Europe and growing in North America. **Established.**
+**Buyer:** architects · BIM managers · manufacturers
+
+#### [Scawo3D](https://www.scawo3d.com/)
+3D product/catalog content and 3D concrete printing (Selective Paste Intrusion).
+**Market:** Niche; likely manufacturer- or catalogue-oriented. Research ties to TRR 277 / AMC. **Experimental.**
+**Buyer:** manufacturers · fabricators
+
+---
+
+---
 
 ## Practice Operations & AI for AEC Firms
 
@@ -421,23 +397,143 @@ Deploys, versions and governs Dynamo/Grasshopper scripts across Revit, Rhino and
 **Market:** Emerging; likely relevant to project operations and data workflows. **Emerging.**
 **Buyer:** BIM managers · computational designers
 
-#### [OOTI](https://www.ooti.co/)
-Practice management for architecture firms: projects, time, fees and staffing.
-**Market:** French-origin practice-management platform; strongest natural fit in FR, with potential in other European markets. **Established (FR).** 900+ firms.
-**Buyer:** principals · practice managers (architecture firms)
-
-#### [JOOC](https://www.jooc.ai/)
-AI copilot analysing tender DCE documents and drafting bid responses.
-**Market:** Early-stage/niche. ⚠ Canonical domain is `jooc.ai`. **Emerging (FR).**
-**Buyer:** bid managers · contractors · architects
-
-#### [Raygister](https://www.raygister.com/)
-Structures descriptifs and DPGF so parties can compare tenders and quotes.
-**Market:** Early-stage/niche. **Emerging (FR).**
-**Buyer:** cost consultants · quantity surveyors · contractors
+---
 
 ---
 
+## Urban Research & Experimental Platforms
+
+*Less conventional commercial products, and more research, civic-tech or experimental design tools.*
+
+#### [Cityweft](https://www.cityweft.com/)
+Urban data and city-design analytics platform; editable 3D site and city models.
+**Market:** Niche; relevant to urban analytics and planning innovation. **Experimental.**
+**Buyer:** urban planners · architects
+
+#### [RoofScape](https://www.mvrdv.com/projects/929/roofscape)
+MVRDV research project on activating urban roofs.
+**Market:** MVRDV-associated experimental project/platform; niche and concept-led. ⚠ No public app URL — Rotterdams municipal prototype, documented on a case-study page. **Experimental.**
+**Buyer:** municipalities · urban planners
+
+#### [SolarScape](https://mvrdv.com/projects/1182/solarscape)
+MVRDV research tool for urban solar and daylight potential ("sunspots").
+**Market:** Experimental MVRDV-related tool; niche. ⚠ Case-study page only, no standalone app. **Experimental.**
+**Buyer:** urban planners · municipalities
+
+#### [MVRDV.Cloud](https://www.mvrdv.com/projects/1186/mvrdvcloud)
+MVRDV's experimental cloud archive and research platform.
+**Market:** Internal/experimental MVRDV initiative rather than a broad market product. ⚠ No verified public app URL. **Experimental.**
+**Buyer:** researchers · archivists
+
+#### [Grasbrook Maker](https://mvrdv.com/stack-magazine/2575/mvrdv-grasbrook-maker-future-of-participatory-urban-design)
+Participatory urban-design tool/project by MVRDV.
+**Market:** Project-specific participatory-design initiative; niche. ⚠ Prototype only — never released as a product. **Experimental.**
+**Buyer:** municipalities · participatory planners
+
+#### [MVRDV NEXT](https://www.mvrdv.com/themes/15/next)
+MVRDV's research and innovation unit.
+**Market:** Not a product but an R&D group; relevant as an innovation reference. **n/a.**
+**Buyer:** n/a — R&D reference
+
+---
+
+---
+
+## Structural & MEP Engineering
+
+#### [ETABS](https://www.csiamerica.com/products/etabs)
+Structural analysis and design of buildings.
+**Market:** Strong in US and international high-rise/building engineering; used by specialized structural firms in Europe. **Established.**
+**Buyer:** structural engineers
+
+#### [Dlubal RFEM](https://www.dlubal.com/en)
+FEM structural analysis and design software.
+**Market:** Very strong in DACH — especially Germany and Switzerland — and increasingly used elsewhere in Europe. **Established.**
+**Buyer:** structural engineers
+
+#### [IDEA StatiCa](https://www.ideastatica.com/)
+Steel connection and structural joint design.
+**Market:** Strong among structural engineers and fabricators in Europe including CH, DE and FR; growing US adoption. **Growing.**
+**Buyer:** structural engineers · fabricators
+
+#### [MagiCAD](https://www.magicad.com/)
+MEP design and calculation inside BIM platforms.
+**Market:** Especially established in Northern Europe and DACH; relevant where Revit-based MEP design is standardized. **Established.**
+**Buyer:** MEP engineers
+
+---
+
+---
+
+## Open BIM, Interoperability & Data
+
+#### [Speckle](https://speckle.systems/)
+Open platform for sharing and versioning AEC model data.
+**Market:** Strong with computational and openBIM-oriented teams globally; growing in CH, DE, FR and US. **Growing.** ⚠ Funding figures conflict across sources (Suffolk Technologies investment, Apr 2026).
+**Buyer:** computational designers · BIM managers · developers
+
+#### [IfcOpenShell](https://ifcopenshell.org/)
+Open-source toolkit for reading, writing and processing IFC.
+**Market:** Global open-source standard for IFC automation; used by BIM managers and developers. **Established (open source).**
+**Buyer:** developers · BIM managers
+
+#### [Bonsai](https://bonsaibim.org/)
+Open-source BIM authoring built on Blender.
+**Market:** Emerging Blender-based BIM workflow; niche but relevant to openBIM communities in Europe. **Emerging (open source).**
+**Buyer:** openBIM architects · Blender users
+
+#### [xBIM Toolkit](https://github.com/xBimTeam/XbimEssentials)
+.NET toolkit for building IFC/BIM applications.
+**Market:** Developer-oriented; used in custom BIM solutions rather than by typical design teams. **Emerging (open source).**
+**Buyer:** .NET developers
+
+---
+
+## Sustainability, Performance & Carbon
+
+#### [One Click LCA](https://oneclicklca.com/)
+Life-cycle assessment and embodied-carbon calculation, with BIM/IFC integration.
+**Market:** Strong in Europe, especially where embodied-carbon regulation is advancing; growing US adoption. **Established.**
+**Buyer:** sustainability consultants · architects
+
+#### [EC3](https://www.buildingtransparency.org/tools/ec3/)
+Database and tool for low-carbon material procurement, with third-party-verified EPDs.
+**Market:** US-origin and particularly relevant to US procurement and carbon benchmarking; useful internationally. **Growing.**
+**Buyer:** owners · procurement teams · sustainability consultants
+
+#### [Tally](https://choosetally.com/)
+Revit-based whole-building LCA tool.
+**Market:** Used where Revit-based sustainability workflows are established; stronger in US and English-speaking markets. **Growing.**
+**Buyer:** architects · sustainability consultants
+
+#### [IES VE](https://www.iesve.com/)
+Building energy, comfort and performance simulation.
+**Market:** Strong in UK/Europe and used by specialized sustainability engineers in CH, DE, FR and US. **Established.**
+**Buyer:** sustainability engineers · MEP engineers
+
+#### [Ladybug Tools](https://www.ladybug.tools/index.html#header-slide-show)
+Open-source environmental analysis and simulation for Rhino/Grasshopper.
+**Market:** Global computational-design community; strong among parametric/sustainability teams. **Growing (open source).**
+**Buyer:** computational designers · sustainability engineers
+
+#### [cove.tool](https://www.covetool.com/)
+Cloud performance, energy, daylight and carbon analysis for early design.
+**Market:** US-origin, growing internationally; appealing to firms wanting accessible performance feedback. **Growing.**
+**Buyer:** architects · sustainability leads
+
+#### [EcoTool](https://www.ecotool.org/)
+Sustainability and environmental assessment tool — early-phase LCA, embodied carbon and operating energy.
+**Market:** Niche/early-stage. Run by EcoTool AG, Basel; KBOB data basis. ⚠ German-language site only. **Emerging (CH).**
+**Buyer:** architects · planners
+
+#### [CarbonSpace](https://carbonspace.earth/)
+Carbon and environmental intelligence platform — free web-based embodied-carbon estimation from early design.
+**Market:** Early-stage/niche. Initiated by MVRDV NEXT; open API to Rhino, Revit and Power BI. ⚠ `carbonspace.tech` is an unrelated company. **Emerging.**
+**Buyer:** architects · sustainability leads
+
+---
+
+---
 
 ## Reality Capture & Digital Twins
 
@@ -473,6 +569,7 @@ Cloud platform for scan data, BIM comparison and collaboration.
 
 ---
 
+---
 
 ## Coordination, CDE & Construction Management
 
@@ -549,126 +646,6 @@ Mobile field-management app for tasks, plans and punch lists.
 ---
 
 
-## Sustainability, Performance & Carbon
-
-#### [One Click LCA](https://oneclicklca.com/)
-Life-cycle assessment and embodied-carbon calculation, with BIM/IFC integration.
-**Market:** Strong in Europe, especially where embodied-carbon regulation is advancing; growing US adoption. **Established.**
-**Buyer:** sustainability consultants · architects
-
-#### [EC3](https://www.buildingtransparency.org/tools/ec3/)
-Database and tool for low-carbon material procurement, with third-party-verified EPDs.
-**Market:** US-origin and particularly relevant to US procurement and carbon benchmarking; useful internationally. **Growing.**
-**Buyer:** owners · procurement teams · sustainability consultants
-
-#### [Tally](https://choosetally.com/)
-Revit-based whole-building LCA tool.
-**Market:** Used where Revit-based sustainability workflows are established; stronger in US and English-speaking markets. **Growing.**
-**Buyer:** architects · sustainability consultants
-
-#### [IES VE](https://www.iesve.com/)
-Building energy, comfort and performance simulation.
-**Market:** Strong in UK/Europe and used by specialized sustainability engineers in CH, DE, FR and US. **Established.**
-**Buyer:** sustainability engineers · MEP engineers
-
-#### [Ladybug Tools](https://www.ladybug.tools/index.html#header-slide-show)
-Open-source environmental analysis and simulation for Rhino/Grasshopper.
-**Market:** Global computational-design community; strong among parametric/sustainability teams. **Growing (open source).**
-**Buyer:** computational designers · sustainability engineers
-
-#### [cove.tool](https://www.covetool.com/)
-Cloud performance, energy, daylight and carbon analysis for early design.
-**Market:** US-origin, growing internationally; appealing to firms wanting accessible performance feedback. **Growing.**
-**Buyer:** architects · sustainability leads
-
-#### [EcoTool](https://www.ecotool.org/)
-Sustainability and environmental assessment tool — early-phase LCA, embodied carbon and operating energy.
-**Market:** Niche/early-stage. Run by EcoTool AG, Basel; KBOB data basis. ⚠ German-language site only. **Emerging (CH).**
-**Buyer:** architects · planners
-
-#### [CarbonSpace](https://carbonspace.earth/)
-Carbon and environmental intelligence platform — free web-based embodied-carbon estimation from early design.
-**Market:** Early-stage/niche. Initiated by MVRDV NEXT; open API to Rhino, Revit and Power BI. ⚠ `carbonspace.tech` is an unrelated company. **Emerging.**
-**Buyer:** architects · sustainability leads
-
----
-
-
-## Urban Research & Experimental Platforms
-
-#### 
-*Less conventional commercial products, and more research, civic-tech or experimental design tools.*
-
-#### [Cityweft](https://www.cityweft.com/)
-Urban data and city-design analytics platform; editable 3D site and city models.
-**Market:** Niche; relevant to urban analytics and planning innovation. **Experimental.**
-**Buyer:** urban planners · architects
-
-#### [Cartes.archi](https://cartes.archi/)
-French platform mapping cadastre, PLU zoning, risks, DPE and 3D terrain.
-**Market:** France-focused; most relevant to the French architectural ecosystem. **Niche (FR).**
-**Buyer:** architects · planners & developers (France)
-
-#### [RoofScape](https://www.mvrdv.com/projects/929/roofscape)
-MVRDV research project on activating urban roofs.
-**Market:** MVRDV-associated experimental project/platform; niche and concept-led. ⚠ No public app URL — Rotterdams municipal prototype, documented on a case-study page. **Experimental.**
-**Buyer:** municipalities · urban planners
-
-#### [SolarScape](https://mvrdv.com/projects/1182/solarscape)
-MVRDV research tool for urban solar and daylight potential ("sunspots").
-**Market:** Experimental MVRDV-related tool; niche. ⚠ Case-study page only, no standalone app. **Experimental.**
-**Buyer:** urban planners · municipalities
-
-#### [MVRDV.Cloud](https://www.mvrdv.com/projects/1186/mvrdvcloud)
-MVRDV's experimental cloud archive and research platform.
-**Market:** Internal/experimental MVRDV initiative rather than a broad market product. ⚠ No verified public app URL. **Experimental.**
-**Buyer:** researchers · archivists
-
-#### [Grasbrook Maker](https://mvrdv.com/stack-magazine/2575/mvrdv-grasbrook-maker-future-of-participatory-urban-design)
-Participatory urban-design tool/project by MVRDV.
-**Market:** Project-specific participatory-design initiative; niche. ⚠ Prototype only — never released as a product. **Experimental.**
-**Buyer:** municipalities · participatory planners
-
-#### [MVRDV NEXT](https://www.mvrdv.com/themes/15/next)
-MVRDV's research and innovation unit.
-**Market:** Not a product but an R&D group; relevant as an innovation reference. **n/a.**
-**Buyer:** n/a — R&D reference
-
----
-
-
-## Materials, Products & Specifications
-
-#### [Material Bank](https://www.materialbank.com/)
-Fast sampling and material library for architecture and interiors.
-**Market:** Strong in US architecture and interiors; expanding internationally including European design markets. 45k+ materials / 450+ brands. **Established.**
-**Buyer:** architects · interior designers
-
-#### [Architonic](https://www.architonic.com/)
-Product directory and inspiration platform for design professionals.
-**Market:** Strong in Europe, especially CH, DE and FR; widely used by architects and interior designers. ⚠ Catalogue figures are self-reported. **Established.**
-**Buyer:** architects · interior designers · specifiers
-
-#### [BIMobject](https://www.bimobject.com/en)
-Marketplace for manufacturer BIM objects and product data.
-**Market:** Global manufacturer-content platform; strong in Europe and growing in North America. **Established.**
-**Buyer:** architects · BIM managers · manufacturers
-
-#### [Scawo3D](https://www.scawo3d.com/)
-3D product/catalog content and 3D concrete printing (Selective Paste Intrusion).
-**Market:** Niche; likely manufacturer- or catalogue-oriented. Research ties to TRR 277 / AMC. **Experimental.**
-**Buyer:** manufacturers · fabricators
-
-#### [Arquiz](https://www.arquiz.fr/)
-French platform for architecture training, media and project resources.
-**Market:** France-oriented; most relevant to the French market. Qualiopi-certified, OPCO-fundable. **Emerging (FR).**
-**Buyer:** AEC professionals (France)
-
-#### [AAL Innovation](https://www.aalinnovationai.com/)
-AEC innovation and technology platform — Hong Kong AI consultancy and academy (ArchMaster.ai).
-**Market:** Niche/early-stage. **Emerging.**
-**Buyer:** AEC professionals · firms (Hong Kong)
-
 ---
 
 ## Market Patterns
@@ -678,7 +655,7 @@ The country reads above collapse into four recognizable stacks:
 - **US** — Revit + Autodesk Construction Cloud + Procore + Bluebeam, with strong adoption of Enscape, Matterport, OpenSpace, cove.tool and EC3.
 - **Switzerland** — a mix of Revit and Archicad, strong Allplan and Dlubal presence, plus locally relevant platforms such as Buildagil; BIMcollab, Solibri and Speckle fit mature BIM environments.
 - **Germany** — Allplan, Dlubal RFEM, MagiCAD, Solibri, Dalux and Bentley tools are particularly strong; Revit remains central in many large practices and contractors.
-- **France** — Revit and Archicad are both significant; Allplan has a European footprint; OOTI, Cartes.archi and Arquiz are notably France-relevant; Architonic and BIMobject are strong for product content.
+- **France** — Revit and Archicad are both significant, with a European footprint for Allplan; Architonic and BIMobject are strong for product content.
 
 **Tags used on every entry:** maturity (*established / growing / emerging / experimental*)
 and primary buyer (*architect / engineer / contractor / owner / BIM manager / visualization artist
