@@ -676,3 +676,5 @@ and primary buyer (*architect / engineer / contractor / owner / BIM manager / vi
 
 *Compiled October 2026. Grouping and descriptions cross-checked against vendor sites and
 independent sources; market reads are directional.*
+
+*Released under [CC0 1.0 Universal](LICENSE) — public domain, no attribution required.*
