@@ -10,18 +10,29 @@ Each entry follows the same shape:
 > **Market** — directional read on adoption across **FR**, **CH**, **DE** and **US**, plus maturity.
 > **Buyer** — who actually uses it: architect · engineer · contractor · owner · BIM manager · visualization artist, etc.
 
-Categories are ordered architecture-first: design and CAD, computation and 3D,
-emerging and AI-native design platforms, AI design workspaces, visualization (render
-engines vs AI imagery, each split architecture-specific vs general-purpose), products
-and specifications, practice operations, urban research, then the engineering,
-openBIM, sustainability, capture and construction categories.
+### Contents
+
+- [Design & CAD](#design--cad)
+- [Computational & Specialist 3D](#computational--specialist-3d)
+- [Emerging Design & AI-Native Platforms](#emerging-design--ai-native-platforms)
+- [AI Design Workspaces & Agents](#ai-design-workspaces--agents)
+- [Visualization & Rendering](#visualization--rendering)
+- [AI Visualization & Imagery — Architecture-Specific](#ai-visualization--imagery--architecture-specific)
+- [AI Imagery & Creative Tools — General-Purpose](#ai-imagery--creative-tools--general-purpose)
+- [Materials, Products & Specifications](#materials-products--specifications)
+- [Practice Operations & AI for AEC Firms](#practice-operations--ai-for-aec-firms)
+- [Urban Research & Experimental Platforms](#urban-research--experimental-platforms)
+- [Structural & MEP Engineering](#structural--mep-engineering)
+- [Open BIM, Interoperability & Data](#open-bim-interoperability--data)
+- [Sustainability, Performance & Carbon](#sustainability-performance--carbon)
+- [Reality Capture & Digital Twins](#reality-capture--digital-twins)
+- [Coordination, CDE & Construction Management](#coordination-cde--construction-management)
+- [Market Patterns](#market-patterns)
 
 > **Reading the market column.** Adoption notes are directional, not exhaustive — they vary by
 > firm size, discipline and whether the work is architecture, engineering, construction or real
 > estate. Maturity tags: *established → growing → emerging → experimental*.
 >
-> **⚠ Caveats** flag ambiguous domains, name collisions or tools that are not commercial
-> products (e.g. research prototypes). Verified **October 2026**.
 
 ---
 ---
