@@ -1,0 +1,1192 @@
+[
+  {
+    "name": "Autodesk Revit",
+    "category": "Design & CAD",
+    "description": "BIM software for coordinated architectural, structural and MEP design.",
+    "url": "https://www.autodesk.com/products/revit/overview",
+    "market": "Dominant in the US; very strong in CH and DE; widespread in FR, especially in large firms and multidisciplinary practices.",
+    "maturity": "Established",
+    "buyer": "architects · engineers · BIM managers",
+    "notes": ""
+  },
+  {
+    "name": "Graphisoft Archicad",
+    "category": "Design & CAD",
+    "description": "Architect-focused BIM authoring and documentation tool.",
+    "url": "https://www.graphisoft.com/",
+    "market": "Strong in CH, DE and FR; particularly popular among architecture-led practices; meaningful but smaller US presence.",
+    "maturity": "Established",
+    "buyer": "architects",
+    "notes": ""
+  },
+  {
+    "name": "Autodesk AutoCAD",
+    "category": "Design & CAD",
+    "description": "Industry-standard 2D drafting and 3D CAD.",
+    "url": "https://www.autodesk.com/products/autocad/overview",
+    "market": "Universal across all four markets; still foundational for documentation, engineering and legacy workflows.",
+    "maturity": "Established",
+    "buyer": "architects · engineers · contractors",
+    "notes": ""
+  },
+  {
+    "name": "Trimble SketchUp",
+    "category": "Design & CAD",
+    "description": "Fast, intuitive 3D modelling for concepts and design communication.",
+    "url": "https://sketchup.trimble.com/",
+    "market": "Very broad adoption in all markets; especially common in early design, interiors and small practices.",
+    "maturity": "Established",
+    "buyer": "architects · interior designers · contractors",
+    "notes": ""
+  },
+  {
+    "name": "Vectorworks",
+    "category": "Design & CAD",
+    "description": "CAD/BIM platform strong in architecture, landscape and entertainment.",
+    "url": "https://www.vectorworks.net/",
+    "market": "Strong in entertainment, landscape and architecture; notable in US and DE, with a solid European base.",
+    "maturity": "Established",
+    "buyer": "architects · landscape architects · entertainment designers",
+    "notes": ""
+  },
+  {
+    "name": "Allplan",
+    "category": "Design & CAD",
+    "description": "BIM/CAD software with strong detailing and construction documentation.",
+    "url": "https://www.allplan.com/",
+    "market": "Particularly strong in DACH — Germany, Switzerland, Austria — with a meaningful French footprint; less common in the US.",
+    "maturity": "Established",
+    "buyer": "architects · engineers · contractors",
+    "notes": ""
+  },
+  {
+    "name": "BricsCAD",
+    "category": "Design & CAD",
+    "description": "Cost-effective AutoCAD-compatible CAD platform.",
+    "url": "https://www.bricscad.com/",
+    "market": "Cost-conscious AutoCAD alternative; present across Europe including CH and DE, with growing but limited US adoption.",
+    "maturity": "Growing",
+    "buyer": "engineers · drafters · contractors",
+    "notes": ""
+  },
+  {
+    "name": "MicroStation",
+    "category": "Design & CAD",
+    "description": "Bentley CAD/BIM platform for infrastructure and large projects.",
+    "url": "https://www.bentley.com/software/microstation/",
+    "market": "Strong in civil, infrastructure, rail and large public projects; notable in US, DE and CH; specialized in FR.",
+    "maturity": "Established",
+    "buyer": "engineers · infrastructure owners",
+    "notes": ""
+  },
+  {
+    "name": "Tekla Structures",
+    "category": "Design & CAD",
+    "description": "Structural BIM for steel, concrete and fabrication detailing.",
+    "url": "https://www.tekla.com/products/tekla-structures",
+    "market": "Strong among structural engineers and fabricators in all four markets; especially established in Nordic/DACH-influenced steel and concrete workflows.",
+    "maturity": "Established",
+    "buyer": "structural engineers · fabricators · detailers",
+    "notes": ""
+  },
+  {
+    "name": "FreeCAD",
+    "category": "Design & CAD",
+    "description": "---",
+    "url": "https://www.freecad.org/",
+    "market": "Global open-source community; useful for parametric/custom work, but limited mainstream AEC production adoption.",
+    "maturity": "Growing (open source)",
+    "buyer": "developers · makers · students",
+    "notes": ""
+  },
+  {
+    "name": "Rhino 3D",
+    "category": "Computational & Specialist 3D",
+    "description": "Precise NURBS modelling for complex geometry.",
+    "url": "https://www.rhino3d.com/",
+    "market": "Very strong in architecture, industrial design and fabrication across FR, CH, DE and US.",
+    "maturity": "Established",
+    "buyer": "architects · industrial designers · fabricators",
+    "notes": ""
+  },
+  {
+    "name": "Grasshopper",
+    "category": "Computational & Specialist 3D",
+    "description": "Visual programming for parametric and generative design; included with Rhino.",
+    "url": "https://www.rhino3d.com/features/#grasshopper",
+    "market": "The default computational-design environment in leading architecture and engineering practices globally.",
+    "maturity": "Established",
+    "buyer": "computational designers · architects · engineers",
+    "notes": "⚠ grasshopper3d.com is vendor-announced as being discontinued; the community moved to discourse.mcneel.com."
+  },
+  {
+    "name": "Blender",
+    "category": "Computational & Specialist 3D",
+    "description": "Open-source 3D modelling, animation and rendering.",
+    "url": "https://www.blender.org/",
+    "market": "Strong among visualization artists and smaller studios; increasingly used in architecture, though less embedded in BIM workflows.",
+    "maturity": "Growing (open source)",
+    "buyer": "visualization artists · small studios · open-source developers",
+    "notes": ""
+  },
+  {
+    "name": "Cinema 4D",
+    "category": "Computational & Specialist 3D",
+    "description": "3D modelling and animation, popular in visualization.",
+    "url": "https://www.maxon.net/en/cinema-4d",
+    "market": "Particularly strong in German-speaking markets and motion-design/visualization studios. Maxon is a Nemetschek subsidiary.",
+    "maturity": "Established",
+    "buyer": "visualization artists · motion designers",
+    "notes": ""
+  },
+  {
+    "name": "Autodesk 3ds Max",
+    "category": "Computational & Specialist 3D",
+    "description": "High-end 3D modelling, animation and rendering.",
+    "url": "https://www.autodesk.com/products/3ds-max/overview",
+    "market": "Established in high-end architectural visualization; strong in US and Europe.",
+    "maturity": "Established",
+    "buyer": "visualization artists",
+    "notes": ""
+  },
+  {
+    "name": "Unreal Engine",
+    "category": "Computational & Specialist 3D",
+    "description": "Real-time 3D engine for interactive visualization and VR.",
+    "url": "https://www.unrealengine.com/",
+    "market": "Used by advanced visualization teams, VR/AR workflows and large firms; global adoption. Epic Games.",
+    "maturity": "Established",
+    "buyer": "visualization teams · digital-twin developers",
+    "notes": ""
+  },
+  {
+    "name": "Twinmotion",
+    "category": "Computational & Specialist 3D",
+    "description": "Fast real-time architectural visualization.",
+    "url": "https://www.twinmotion.com/",
+    "market": "Accessible real-time rendering option with broad international adoption, especially where Archicad/Revit users need fast output. Epic Games, powered by Unreal Engine.",
+    "maturity": "Established",
+    "buyer": "architects · visualization generalists",
+    "notes": ""
+  },
+  {
+    "name": "Autodesk Forma",
+    "category": "Computational & Specialist 3D",
+    "description": "---",
+    "url": "https://www.autodesk.com/company/autodesk-platform/aec",
+    "market": "Newer Autodesk platform; strongest where firms are already Autodesk-centric, including US, UK and parts of Europe.",
+    "maturity": "Growing",
+    "buyer": "architects · urban planners · developers",
+    "notes": ""
+  },
+  {
+    "name": "Snaptrude",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "Browser-based collaborative building modelling.",
+    "url": "https://www.snaptrude.com/",
+    "market": "Early traction with tech-forward architecture teams; strongest visibility in US and India-led international markets.",
+    "maturity": "Emerging",
+    "buyer": "architects · design teams",
+    "notes": ""
+  },
+  {
+    "name": "Arcol",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "Web-native architectural modelling and presentation tool.",
+    "url": "https://arcol.io/",
+    "market": "Early-stage, design-forward; mostly innovation teams and startups rather than mainstream production.",
+    "maturity": "Emerging",
+    "buyer": "architects · concept designers",
+    "notes": ""
+  },
+  {
+    "name": "Motif",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "Collaborative, web-based design and documentation platform.",
+    "url": "https://motif.io/",
+    "market": "Emerging platform; early adopters in US and European tech-oriented practices.",
+    "maturity": "Emerging",
+    "buyer": "architects · design teams",
+    "notes": ""
+  },
+  {
+    "name": "Qonic",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "Cloud BIM/modelling platform for collaborative building design.",
+    "url": "https://www.qonic.com/",
+    "market": "Early-stage European-origin platform; potential relevance in CH/DE/FR, but still niche.",
+    "maturity": "Emerging",
+    "buyer": "BIM managers · model authors",
+    "notes": ""
+  },
+  {
+    "name": "Rayon",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "Collaborative online CAD for architectural drawings.",
+    "url": "https://www.rayon.design/",
+    "market": "European, architecture-first; appealing to smaller studios and design-led teams in FR, CH and DE.",
+    "maturity": "Emerging",
+    "buyer": "architects · small studios",
+    "notes": ""
+  },
+  {
+    "name": "That Open Platform",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "Open-source infrastructure for openBIM apps and data.",
+    "url": "https://platform.thatopen.com/",
+    "market": "Global developer/open-source ecosystem; relevant wherever IFC/openBIM is prioritized, including CH, DE and FR.",
+    "maturity": "Growing (open source)",
+    "buyer": "developers · BIM managers",
+    "notes": ""
+  },
+  {
+    "name": "Giraffe",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "Cloud platform for site planning and urban design.",
+    "url": "https://www.giraffe.build/",
+    "market": "More common in planning, masterplanning and proptech contexts; strongest early traction in anglophone markets.",
+    "maturity": "Growing",
+    "buyer": "urban planners · developers · proptech",
+    "notes": ""
+  },
+  {
+    "name": "Spacio",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "Data-driven design and AEC workflow platform.",
+    "url": "https://spacio.ai/",
+    "market": "Emerging; likely relevant to data-driven practices rather than broad market adoption.",
+    "maturity": "Emerging",
+    "buyer": "data-driven designers · planners",
+    "notes": ""
+  },
+  {
+    "name": "Hypar",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "Generative design platform for building systems and layouts.",
+    "url": "https://hypar.io/",
+    "market": "Specialist generative-design platform; adoption among advanced computational teams, especially in the US. Pivoted away from computational design in 2024.",
+    "maturity": "Emerging",
+    "buyer": "computational designers · engineers",
+    "notes": ""
+  },
+  {
+    "name": "Finch",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "AI-assisted generative floorplan and layout design.",
+    "url": "https://www.finch3d.com/",
+    "market": "Early-stage AI/generative design; interest from architecture firms exploring automation.",
+    "maturity": "Emerging",
+    "buyer": "architects · multi-family developers",
+    "notes": ""
+  },
+  {
+    "name": "Augmenta",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "AI automation for building design and engineering — starting with electrical, extending into MEP.",
+    "url": "https://www.augmenta.ai/",
+    "market": "Early-stage automation for building systems/design; primarily innovation-led adoption. Distinct from the unrelated agritech company acquired by CNH in 2023.",
+    "maturity": "Emerging",
+    "buyer": "MEP engineers · electrical engineers",
+    "notes": ""
+  },
+  {
+    "name": "Branch3D",
+    "category": "Emerging Design & AI-Native Platforms",
+    "description": "---",
+    "url": "https://www.branch3d.com/",
+    "market": "Niche/early-stage; market presence likely limited and project-specific. Incubated within StructureCraft, Vancouver.",
+    "maturity": "Emerging",
+    "buyer": "structural engineers",
+    "notes": ""
+  },
+  {
+    "name": "ETABS",
+    "category": "Structural & MEP Engineering",
+    "description": "Structural analysis and design of buildings.",
+    "url": "https://www.csiamerica.com/products/etabs",
+    "market": "Strong in US and international high-rise/building engineering; used by specialized structural firms in Europe.",
+    "maturity": "Established",
+    "buyer": "structural engineers",
+    "notes": ""
+  },
+  {
+    "name": "Dlubal RFEM",
+    "category": "Structural & MEP Engineering",
+    "description": "FEM structural analysis and design software.",
+    "url": "https://www.dlubal.com/en",
+    "market": "Very strong in DACH — especially Germany and Switzerland — and increasingly used elsewhere in Europe.",
+    "maturity": "Established",
+    "buyer": "structural engineers",
+    "notes": ""
+  },
+  {
+    "name": "IDEA StatiCa",
+    "category": "Structural & MEP Engineering",
+    "description": "Steel connection and structural joint design.",
+    "url": "https://www.ideastatica.com/",
+    "market": "Strong among structural engineers and fabricators in Europe including CH, DE and FR; growing US adoption.",
+    "maturity": "Growing",
+    "buyer": "structural engineers · fabricators",
+    "notes": ""
+  },
+  {
+    "name": "MagiCAD",
+    "category": "Structural & MEP Engineering",
+    "description": "---",
+    "url": "https://www.magicad.com/",
+    "market": "Especially established in Northern Europe and DACH; relevant where Revit-based MEP design is standardized.",
+    "maturity": "Established",
+    "buyer": "MEP engineers",
+    "notes": ""
+  },
+  {
+    "name": "Speckle",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "Open platform for sharing and versioning AEC model data.",
+    "url": "https://speckle.systems/",
+    "market": "Strong with computational and openBIM-oriented teams globally; growing in CH, DE, FR and US.",
+    "maturity": "Growing",
+    "buyer": "computational designers · BIM managers · developers",
+    "notes": "⚠ Funding figures conflict across sources (Suffolk Technologies investment, Apr 2026)."
+  },
+  {
+    "name": "Bimface (Glodon)",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "Cloud BIM viewing, collaboration and development platform.",
+    "url": "https://bimface.com/",
+    "market": "Strongest in China and Asia; limited mainstream presence in FR, CH, DE or US. Chinese-language product.",
+    "maturity": "Established (Asia)",
+    "buyer": "developers · platform builders",
+    "notes": ""
+  },
+  {
+    "name": "IfcOpenShell",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "Open-source toolkit for reading, writing and processing IFC.",
+    "url": "https://ifcopenshell.org/",
+    "market": "Global open-source standard for IFC automation; used by BIM managers and developers.",
+    "maturity": "Established (open source)",
+    "buyer": "developers · BIM managers",
+    "notes": ""
+  },
+  {
+    "name": "Bonsai",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "Open-source BIM authoring built on Blender.",
+    "url": "https://bonsaibim.org/",
+    "market": "Emerging Blender-based BIM workflow; niche but relevant to openBIM communities in Europe.",
+    "maturity": "Emerging (open source)",
+    "buyer": "openBIM architects · Blender users",
+    "notes": ""
+  },
+  {
+    "name": "xBIM Toolkit",
+    "category": "Open BIM, Interoperability & Data",
+    "description": ".NET toolkit for building IFC/BIM applications.",
+    "url": "https://github.com/xBimTeam/XbimEssentials",
+    "market": "Developer-oriented; used in custom BIM solutions rather than by typical design teams.",
+    "maturity": "Emerging (open source)",
+    "buyer": ".NET developers",
+    "notes": ""
+  },
+  {
+    "name": "xFigura",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "AI-powered BIM data and model intelligence tool; collaborative AI canvas with Rhino/Revit integrations.",
+    "url": "https://www.xfigura.ai",
+    "market": "Early-stage; likely niche adoption.",
+    "maturity": "Emerging",
+    "buyer": "architects · design teams",
+    "notes": ""
+  },
+  {
+    "name": "FORMAS.AI",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "AI platform turning sketches into 2D visuals, 3D models and client-ready boards.",
+    "url": "https://www.formas.ai",
+    "market": "Early-stage; market presence still forming.",
+    "maturity": "Emerging",
+    "buyer": "architects · marketing & BD teams",
+    "notes": ""
+  },
+  {
+    "name": "Synaps",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "AI tool that imports DXF/PDF, drafts documentation and generates floor plans.",
+    "url": "https://synaps.app",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging",
+    "buyer": "architects · documentation teams",
+    "notes": ""
+  },
+  {
+    "name": "Arkyv",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "AI platform for architectural project data and archives — BIM task automation, code/standards search with citations.",
+    "url": "https://www.arkyv.ai",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging",
+    "buyer": "architects · BIM managers",
+    "notes": "⚠ arkyv.org is an unrelated text-world engine."
+  },
+  {
+    "name": "Narva AI",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "AI assistant/tooling for AEC workflows — renders, style transfer, video and 3D.",
+    "url": "https://www.narva.ai",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging",
+    "buyer": "architects · interior designers",
+    "notes": ""
+  },
+  {
+    "name": "AIRI lab",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "AI research and tools for the built environment — concept generation, cloud generative 3D, agentic workflows.",
+    "url": "https://airilab.com",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging",
+    "buyer": "designers · innovation teams",
+    "notes": "⚠ Own site spells it \"AIRIlab\"."
+  },
+  {
+    "name": "Reer",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "Agentic layer automating Rhino, Grasshopper and Revit workflows.",
+    "url": "https://www.reer.co",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging",
+    "buyer": "computational designers · BIM managers",
+    "notes": "⚠ Canonical domain is reer.co, not reer.ai."
+  },
+  {
+    "name": "Versur",
+    "category": "Open BIM, Interoperability & Data",
+    "description": "---",
+    "url": "https://versur.ai",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging",
+    "buyer": "computational designers",
+    "notes": ""
+  },
+  {
+    "name": "D5 Render",
+    "category": "Visualization — Architecture-Specific",
+    "description": "Real-time architectural rendering and visualization, with live links to Revit/SketchUp/Rhino.",
+    "url": "https://www.d5render.com/",
+    "market": "Growing challenger, with increasing adoption among younger visualization teams internationally.",
+    "maturity": "Growing",
+    "buyer": "architects · visualization artists",
+    "notes": ""
+  },
+  {
+    "name": "Enscape",
+    "category": "Visualization — Architecture-Specific",
+    "description": "Real-time rendering plugin for Revit, Archicad, SketchUp and Rhino.",
+    "url": "https://www.chaos.com/enscape",
+    "market": "Very strong in architecture practices across US, CH, DE and FR; common because of Revit/Archicad integration.",
+    "maturity": "Established",
+    "buyer": "architects · interior designers",
+    "notes": ""
+  },
+  {
+    "name": "V-Ray",
+    "category": "Visualization — Architecture-Specific",
+    "description": "High-end photorealistic rendering engine.",
+    "url": "https://www.chaos.com/vray",
+    "market": "Established globally among visualization specialists and larger firms.",
+    "maturity": "Established",
+    "buyer": "visualization specialists",
+    "notes": ""
+  },
+  {
+    "name": "Lumion",
+    "category": "Visualization — Architecture-Specific",
+    "description": "Fast architectural rendering and animation.",
+    "url": "https://lumion.com/",
+    "market": "Broad architectural adoption in Europe and the US; especially popular for fast external visuals.",
+    "maturity": "Established",
+    "buyer": "architects · landscape architects",
+    "notes": ""
+  },
+  {
+    "name": "Veras",
+    "category": "Visualization — Architecture-Specific",
+    "description": "AI-enhanced architectural rendering and image iteration, driven from Revit, Rhino, SketchUp, Archicad or Vectorworks.",
+    "url": "https://www.evolvelab.io/veras",
+    "market": "Early-stage AI visualization; adoption among firms experimenting with AI workflows. Chaos acquired EvolveLAB (Feb 2025); still sold standalone.",
+    "maturity": "Growing",
+    "buyer": "architects · visualization teams",
+    "notes": ""
+  },
+  {
+    "name": "Rendair",
+    "category": "Visualization — Architecture-Specific",
+    "description": "AI-generated architectural visuals and renderings from sketches, plans and models.",
+    "url": "https://rendair.ai/",
+    "market": "Early-stage; likely strongest among smaller studios and marketing/competition workflows. An AI renderer, not distributed-compute rendering.",
+    "maturity": "Emerging",
+    "buyer": "small studios · marketing teams",
+    "notes": ""
+  },
+  {
+    "name": "Visoid",
+    "category": "Visualization — Architecture-Specific",
+    "description": "AI visualization for architectural concepts, preserving imported model geometry.",
+    "url": "https://www.visoid.com/",
+    "market": "Early-stage/niche. $2.5M round, Aug 2026.",
+    "maturity": "Emerging",
+    "buyer": "architects · visualization teams",
+    "notes": ""
+  },
+  {
+    "name": "Gendo",
+    "category": "Visualization — Architecture-Specific",
+    "description": "---",
+    "url": "https://www.gendo.ai/",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging",
+    "buyer": "architects · client-facing teams",
+    "notes": ""
+  },
+  {
+    "name": "Runway",
+    "category": "AI Imagery & Creative Tools — General-Purpose",
+    "description": "AI video and image generation/editing and world models.",
+    "url": "https://runway.com/",
+    "market": "Not AEC-specific; used for concept imagery, marketing and narrative visualization globally.",
+    "maturity": "Growing",
+    "buyer": "marketing teams · concept designers",
+    "notes": "⚠ Video, not architectural software."
+  },
+  {
+    "name": "Nano Banana",
+    "category": "AI Imagery & Creative Tools — General-Purpose",
+    "description": "Google DeepMind's Gemini image generation and editing models.",
+    "url": "https://deepmind.google/models/gemini-image/pro/",
+    "market": "General-purpose AI imaging; not AEC-specific.",
+    "maturity": "Growing",
+    "buyer": "designers · marketers",
+    "notes": "⚠ A model, not a product — increasingly embedded in other tools."
+  },
+  {
+    "name": "Midjourney",
+    "category": "AI Imagery & Creative Tools — General-Purpose",
+    "description": "AI image generator for concepts and visual exploration.",
+    "url": "https://www.midjourney.com/",
+    "market": "Very widely used for early concept imagery across all markets.",
+    "maturity": "Established",
+    "buyer": "concept designers · architects",
+    "notes": ""
+  },
+  {
+    "name": "Leonardo AI",
+    "category": "AI Imagery & Creative Tools — General-Purpose",
+    "description": "AI image-generation platform for creative workflows.",
+    "url": "https://leonardo.ai/",
+    "market": "General creative AI; used for moodboards and concept exploration. Acquired by Canva (Jul 2024); merging into Canva through 2026.",
+    "maturity": "Growing",
+    "buyer": "designers · marketers",
+    "notes": ""
+  },
+  {
+    "name": "Adobe Firefly",
+    "category": "AI Imagery & Creative Tools — General-Purpose",
+    "description": "Adobe's generative AI for images and creative content.",
+    "url": "https://firefly.adobe.com/",
+    "market": "Broad creative-market adoption; useful for concept and marketing imagery.",
+    "maturity": "Established",
+    "buyer": "designers · marketers",
+    "notes": ""
+  },
+  {
+    "name": "Krea",
+    "category": "AI Imagery & Creative Tools — General-Purpose",
+    "description": "AI creative tool for realtime image generation, editing and enhancement.",
+    "url": "https://www.krea.ai/",
+    "market": "Early-stage creative AI; niche in AEC.",
+    "maturity": "Growing",
+    "buyer": "creative technologists",
+    "notes": ""
+  },
+  {
+    "name": "Figma Weave",
+    "category": "AI Imagery & Creative Tools — General-Purpose",
+    "description": "Node-based canvas combining many AI models for image/video/motion.",
+    "url": "https://weave.figma.com/",
+    "market": "More product/UX-oriented than AEC-specific; relevant to digital design teams. Ex-Weavy; acquired by Figma (Oct 2025).",
+    "maturity": "Emerging",
+    "buyer": "digital & product designers",
+    "notes": ""
+  },
+  {
+    "name": "ComfyUI",
+    "category": "AI Imagery & Creative Tools — General-Purpose",
+    "description": "Node-based interface for building custom AI image workflows.",
+    "url": "https://www.comfy.org/",
+    "market": "Technical/creative users building custom AI pipelines; niche but powerful.",
+    "maturity": "Growing (open source)",
+    "buyer": "technical artists · AI pipeline builders",
+    "notes": ""
+  },
+  {
+    "name": "Magnific",
+    "category": "AI Imagery & Creative Tools — General-Purpose",
+    "description": "AI image upscaling and detail enhancement.",
+    "url": "https://www.magnific.com/",
+    "market": "Used by visualization studios globally for post-production enhancement.",
+    "maturity": "Growing",
+    "buyer": "visualization studios",
+    "notes": "⚠ Domain changed from magnific.ai (now a legacy portal for existing accounts); magnifi.ai is an unrelated company."
+  },
+  {
+    "name": "Meshy",
+    "category": "AI Imagery & Creative Tools — General-Purpose",
+    "description": "---",
+    "url": "https://www.meshy.ai/",
+    "market": "Emerging; useful for concept massing, assets and game-like environments rather than construction documentation.",
+    "maturity": "Emerging",
+    "buyer": "concept artists · game & viz teams",
+    "notes": ""
+  },
+  {
+    "name": "Pirros",
+    "category": "Practice Operations & AI for AEC Firms",
+    "description": "Platform for reusing architectural details and firm knowledge.",
+    "url": "https://www.pirros.com",
+    "market": "Emerging; relevant to architecture firms standardizing details and internal knowledge.",
+    "maturity": "Emerging",
+    "buyer": "architects · BIM managers (detail libraries)",
+    "notes": ""
+  },
+  {
+    "name": "Structured AI",
+    "category": "Practice Operations & AI for AEC Firms",
+    "description": "AI QA/QC agents reviewing PDF and Revit packages against firm standards.",
+    "url": "https://getstructured.ai",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging",
+    "buyer": "QA/QC leads · BIM managers",
+    "notes": ""
+  },
+  {
+    "name": "Tektome",
+    "category": "Practice Operations & AI for AEC Firms",
+    "description": "AI for specifications, documents and technical content — reads drawings, models and specs against codes and client requirements.",
+    "url": "https://www.tektome.com",
+    "market": "Early-stage; potentially relevant to specification and tender workflows.",
+    "maturity": "Emerging",
+    "buyer": "specifiers · architects · contractors",
+    "notes": ""
+  },
+  {
+    "name": "Freeda",
+    "category": "Practice Operations & AI for AEC Firms",
+    "description": "AI assistant for architecture practice workflows; flags project-file risks and compliance issues.",
+    "url": "https://www.freedaai.com",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging",
+    "buyer": "architects · project leads",
+    "notes": "⚠ Domain is freedaai.com; freeda.ai is an unrelated menopause app."
+  },
+  {
+    "name": "Kinship",
+    "category": "Practice Operations & AI for AEC Firms",
+    "description": "Revit content management: search, load and track families; AI platform for AEC operations and knowledge.",
+    "url": "https://kinship.io/",
+    "market": "Early-stage/niche. Claims 300+ firms.",
+    "maturity": "Growing",
+    "buyer": "BIM managers · Revit content managers",
+    "notes": ""
+  },
+  {
+    "name": "Orkestra",
+    "category": "Practice Operations & AI for AEC Firms",
+    "description": "Deploys, versions and governs Dynamo/Grasshopper scripts across Revit, Rhino and Civil 3D.",
+    "url": "https://www.orkestra.online/",
+    "market": "Emerging; likely relevant to project operations and data workflows.",
+    "maturity": "Emerging",
+    "buyer": "BIM managers · computational designers",
+    "notes": ""
+  },
+  {
+    "name": "OOTI",
+    "category": "Practice Operations & AI for AEC Firms",
+    "description": "Practice management for architecture firms: projects, time, fees and staffing.",
+    "url": "https://www.ooti.co/",
+    "market": "French-origin practice-management platform; strongest natural fit in FR, with potential in other European markets. Acquired by Milient Software (Feb 2026); 900+ firms.",
+    "maturity": "Established (FR)",
+    "buyer": "principals · practice managers (architecture firms)",
+    "notes": ""
+  },
+  {
+    "name": "JOOC",
+    "category": "Practice Operations & AI for AEC Firms",
+    "description": "AI copilot analysing tender DCE documents and drafting bid responses.",
+    "url": "https://www.jooc.ai/",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging (FR)",
+    "buyer": "bid managers · contractors · architects",
+    "notes": "⚠ Canonical domain is jooc.ai."
+  },
+  {
+    "name": "Raygister",
+    "category": "Practice Operations & AI for AEC Firms",
+    "description": "---",
+    "url": "https://www.raygister.com/",
+    "market": "Early-stage/niche.",
+    "maturity": "Emerging (FR)",
+    "buyer": "cost consultants · quantity surveyors · contractors",
+    "notes": ""
+  },
+  {
+    "name": "Matterport",
+    "category": "Reality Capture & Digital Twins",
+    "description": "3D capture and digital twins for spaces and buildings.",
+    "url": "https://matterport.com/",
+    "market": "Broad adoption in real estate, facilities and construction documentation across all four markets. Acquired by CoStar Group (completed Feb 2025).",
+    "maturity": "Established",
+    "buyer": "owners · facility managers · real-estate marketers",
+    "notes": ""
+  },
+  {
+    "name": "Agisoft Metashape",
+    "category": "Reality Capture & Digital Twins",
+    "description": "Professional photogrammetry from photos and drone imagery.",
+    "url": "https://www.agisoft.com/",
+    "market": "Strong among surveyors, heritage, drone and visualization specialists globally.",
+    "maturity": "Established",
+    "buyer": "surveyors · heritage specialists · drone operators",
+    "notes": ""
+  },
+  {
+    "name": "RealityScan",
+    "category": "Reality Capture & Digital Twins",
+    "description": "Mobile photogrammetry app for 3D capture (rebranded RealityCapture).",
+    "url": "https://www.realityscan.com/",
+    "market": "Accessible capture tool; adoption among smaller teams and field users. Epic Games.",
+    "maturity": "Growing",
+    "buyer": "field teams · small studios",
+    "notes": ""
+  },
+  {
+    "name": "NavVis",
+    "category": "Reality Capture & Digital Twins",
+    "description": "Laser scanning (VLX/MLX) and indoor digital-twin platform.",
+    "url": "https://www.navvis.com/",
+    "market": "Strong in industrial, construction and facility contexts; notable European and US enterprise adoption.",
+    "maturity": "Established",
+    "buyer": "facility managers · scan-to-BIM teams",
+    "notes": ""
+  },
+  {
+    "name": "OpenDroneMap",
+    "category": "Reality Capture & Digital Twins",
+    "description": "Open-source drone photogrammetry and mapping.",
+    "url": "https://opendronemap.org/",
+    "market": "Global open-source community; used where cost control and data ownership matter.",
+    "maturity": "Growing (open source)",
+    "buyer": "drone operators · GIS teams",
+    "notes": ""
+  },
+  {
+    "name": "Cintoo",
+    "category": "Reality Capture & Digital Twins",
+    "description": "---",
+    "url": "https://www.cintoo.com/",
+    "market": "Growing in scan-to-BIM and construction QA; relevant across Europe and North America.",
+    "maturity": "Growing",
+    "buyer": "scan-to-BIM teams · construction QA",
+    "notes": ""
+  },
+  {
+    "name": "Autodesk Navisworks",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "Model aggregation, clash detection and 4D planning.",
+    "url": "https://www.autodesk.com/products/navisworks/overview",
+    "market": "Very strong wherever Revit is dominant, especially US, CH and DE; widely used in FR too.",
+    "maturity": "Established",
+    "buyer": "BIM managers · coordinators",
+    "notes": ""
+  },
+  {
+    "name": "Solibri",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "BIM model checking, QA and rule-based coordination.",
+    "url": "https://www.solibri.com/",
+    "market": "Strong in Nordic and DACH BIM markets; used by demanding BIM-management teams in CH, DE and FR.",
+    "maturity": "Established",
+    "buyer": "BIM managers · model checkers",
+    "notes": ""
+  },
+  {
+    "name": "Autodesk Construction Cloud",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "Cloud CDE for design coordination and construction management.",
+    "url": "https://construction.autodesk.com/",
+    "market": "Strong in Autodesk-centric firms; broad US adoption and growing European use.",
+    "maturity": "Established",
+    "buyer": "contractors · design coordinators · owners",
+    "notes": ""
+  },
+  {
+    "name": "Procore",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "Construction project management platform.",
+    "url": "https://www.procore.com/",
+    "market": "Dominant in the US; expanding in Europe including CH and DE, though local competitors remain important.",
+    "maturity": "Established",
+    "buyer": "contractors · owners · project managers",
+    "notes": ""
+  },
+  {
+    "name": "BIMcollab",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "BIM issue management and model coordination (BCF-based).",
+    "url": "https://www.bimcollab.com/en",
+    "market": "Strong in Europe, especially Netherlands, DACH and CH; relevant to formal BIM coordination.",
+    "maturity": "Growing",
+    "buyer": "BIM coordinators",
+    "notes": ""
+  },
+  {
+    "name": "Revizto",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "Collaborative 3D model review and issue tracking.",
+    "url": "https://revizto.com/en/",
+    "market": "Growing internationally; practical for cross-discipline review and issue tracking.",
+    "maturity": "Growing",
+    "buyer": "BIM coordinators · cross-discipline reviewers",
+    "notes": ""
+  },
+  {
+    "name": "Bluebeam",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "PDF markup, drawing review and document collaboration.",
+    "url": "https://www.bluebeam.com/",
+    "market": "Extremely strong in US construction; also widely used in CH, DE and FR for drawing review.",
+    "maturity": "Established",
+    "buyer": "contractors · architects · engineers",
+    "notes": ""
+  },
+  {
+    "name": "Bentley ProjectWise",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "Enterprise CDE for engineering documents and models.",
+    "url": "https://www.bentley.com/software/projectwise/",
+    "market": "Strong in infrastructure, rail and large public-sector projects; notable in US, DE and CH.",
+    "maturity": "Established",
+    "buyer": "infrastructure owners · engineering firms",
+    "notes": ""
+  },
+  {
+    "name": "Dalux",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "CDE and construction management platform.",
+    "url": "https://www.dalux.com/",
+    "market": "Strong in Northern Europe and expanding in DACH; increasingly relevant in CH and DE. Dalux ApS, Copenhagen — founder-owned.",
+    "maturity": "Growing",
+    "buyer": "contractors · site managers · facility owners",
+    "notes": ""
+  },
+  {
+    "name": "Buildagil",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "Swiss project-management and collaboration platform for construction.",
+    "url": "https://www.buildagil.com/en",
+    "market": "Particularly relevant in Switzerland; strong local-fit advantage for Swiss projects and stakeholders.",
+    "maturity": "Growing (CH)",
+    "buyer": "contractors · owners · architects (Swiss projects)",
+    "notes": ""
+  },
+  {
+    "name": "Trimble Connect",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "Cloud collaboration for 3D models and construction data.",
+    "url": "https://www.trimble.com/en/products/trimble-connect",
+    "market": "Broad adoption across construction and MEP workflows; strong in US and Europe.",
+    "maturity": "Established",
+    "buyer": "contractors · MEP teams · BIM coordinators",
+    "notes": ""
+  },
+  {
+    "name": "OpenSpace",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "360° photo documentation and remote site monitoring.",
+    "url": "https://www.openspace.ai/",
+    "market": "Strong in US construction; growing European adoption.",
+    "maturity": "Growing",
+    "buyer": "contractors · site teams · owners",
+    "notes": ""
+  },
+  {
+    "name": "Buildots",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "AI construction progress tracking from site imagery.",
+    "url": "https://www.buildots.com/",
+    "market": "Enterprise construction-tech adoption; strongest in large contractors and anglophone/European markets.",
+    "maturity": "Growing",
+    "buyer": "large contractors · project controls",
+    "notes": ""
+  },
+  {
+    "name": "Fieldwire",
+    "category": "Coordination, CDE & Construction Management",
+    "description": "---",
+    "url": "https://www.fieldwire.com/",
+    "market": "Strong with subcontractors and site teams in US and Europe; practical, mobile-first adoption. Hilti.",
+    "maturity": "Established (field)",
+    "buyer": "subcontractors · site teams",
+    "notes": ""
+  },
+  {
+    "name": "One Click LCA",
+    "category": "Sustainability, Performance & Carbon",
+    "description": "Life-cycle assessment and embodied-carbon calculation, with BIM/IFC integration.",
+    "url": "https://oneclicklca.com/",
+    "market": "Strong in Europe, especially where embodied-carbon regulation is advancing; growing US adoption.",
+    "maturity": "Established",
+    "buyer": "sustainability consultants · architects",
+    "notes": ""
+  },
+  {
+    "name": "EC3",
+    "category": "Sustainability, Performance & Carbon",
+    "description": "Database and tool for low-carbon material procurement, with third-party-verified EPDs.",
+    "url": "https://www.buildingtransparency.org/tools/ec3/",
+    "market": "US-origin and particularly relevant to US procurement and carbon benchmarking; useful internationally.",
+    "maturity": "Growing",
+    "buyer": "owners · procurement teams · sustainability consultants",
+    "notes": ""
+  },
+  {
+    "name": "Tally",
+    "category": "Sustainability, Performance & Carbon",
+    "description": "Revit-based whole-building LCA tool.",
+    "url": "https://choosetally.com/",
+    "market": "Used where Revit-based sustainability workflows are established; stronger in US and English-speaking markets.",
+    "maturity": "Growing",
+    "buyer": "architects · sustainability consultants",
+    "notes": ""
+  },
+  {
+    "name": "IES VE",
+    "category": "Sustainability, Performance & Carbon",
+    "description": "Building energy, comfort and performance simulation.",
+    "url": "https://www.iesve.com/",
+    "market": "Strong in UK/Europe and used by specialized sustainability engineers in CH, DE, FR and US.",
+    "maturity": "Established",
+    "buyer": "sustainability engineers · MEP engineers",
+    "notes": ""
+  },
+  {
+    "name": "Ladybug Tools",
+    "category": "Sustainability, Performance & Carbon",
+    "description": "Open-source environmental analysis and simulation for Rhino/Grasshopper.",
+    "url": "https://www.ladybug.tools/index.html#header-slide-show",
+    "market": "Global computational-design community; strong among parametric/sustainability teams.",
+    "maturity": "Growing (open source)",
+    "buyer": "computational designers · sustainability engineers",
+    "notes": ""
+  },
+  {
+    "name": "cove.tool",
+    "category": "Sustainability, Performance & Carbon",
+    "description": "Cloud performance, energy, daylight and carbon analysis for early design.",
+    "url": "https://www.covetool.com/",
+    "market": "US-origin, growing internationally; appealing to firms wanting accessible performance feedback.",
+    "maturity": "Growing",
+    "buyer": "architects · sustainability leads",
+    "notes": ""
+  },
+  {
+    "name": "EcoTool",
+    "category": "Sustainability, Performance & Carbon",
+    "description": "Sustainability and environmental assessment tool — early-phase LCA, embodied carbon and operating energy.",
+    "url": "https://www.ecotool.org/",
+    "market": "Niche/early-stage. Run by EcoTool AG, Basel; KBOB data basis.",
+    "maturity": "Emerging (CH)",
+    "buyer": "architects · planners",
+    "notes": "⚠ German-language site only."
+  },
+  {
+    "name": "CarbonSpace",
+    "category": "Sustainability, Performance & Carbon",
+    "description": "---",
+    "url": "https://carbonspace.earth/",
+    "market": "Early-stage/niche. Initiated by MVRDV NEXT; open API to Rhino, Revit and Power BI.",
+    "maturity": "Emerging",
+    "buyer": "architects · sustainability leads",
+    "notes": "⚠ carbonspace.tech is an unrelated company."
+  },
+  {
+    "name": "Cityweft",
+    "category": "Urban Research & Experimental Platforms",
+    "description": "Urban data and city-design analytics platform; editable 3D site and city models.",
+    "url": "https://www.cityweft.com/",
+    "market": "Niche; relevant to urban analytics and planning innovation.",
+    "maturity": "Experimental",
+    "buyer": "urban planners · architects",
+    "notes": ""
+  },
+  {
+    "name": "Cartes.archi",
+    "category": "Urban Research & Experimental Platforms",
+    "description": "French platform mapping cadastre, PLU zoning, risks, DPE and 3D terrain.",
+    "url": "https://cartes.archi/",
+    "market": "France-focused; most relevant to the French architectural ecosystem.",
+    "maturity": "Niche (FR)",
+    "buyer": "architects · planners & developers (France)",
+    "notes": ""
+  },
+  {
+    "name": "RoofScape",
+    "category": "Urban Research & Experimental Platforms",
+    "description": "MVRDV research project on activating urban roofs.",
+    "url": "https://www.mvrdv.com/projects/929/roofscape",
+    "market": "MVRDV-associated experimental project/platform; niche and concept-led.",
+    "maturity": "Experimental",
+    "buyer": "municipalities · urban planners",
+    "notes": "⚠ No public app URL — Rotterdams municipal prototype, documented on a case-study page."
+  },
+  {
+    "name": "SolarScape",
+    "category": "Urban Research & Experimental Platforms",
+    "description": "MVRDV research tool for urban solar and daylight potential (\"sunspots\").",
+    "url": "https://mvrdv.com/projects/1182/solarscape",
+    "market": "Experimental MVRDV-related tool; niche.",
+    "maturity": "Experimental",
+    "buyer": "urban planners · municipalities",
+    "notes": "⚠ Case-study page only, no standalone app."
+  },
+  {
+    "name": "MVRDV.Cloud",
+    "category": "Urban Research & Experimental Platforms",
+    "description": "MVRDV's experimental cloud archive and research platform.",
+    "url": "https://www.mvrdv.com/projects/1186/mvrdvcloud",
+    "market": "Internal/experimental MVRDV initiative rather than a broad market product.",
+    "maturity": "Experimental",
+    "buyer": "researchers · archivists",
+    "notes": "⚠ No verified public app URL."
+  },
+  {
+    "name": "Grasbrook Maker",
+    "category": "Urban Research & Experimental Platforms",
+    "description": "Participatory urban-design tool/project by MVRDV.",
+    "url": "https://mvrdv.com/stack-magazine/2575/mvrdv-grasbrook-maker-future-of-participatory-urban-design",
+    "market": "Project-specific participatory-design initiative; niche.",
+    "maturity": "Experimental",
+    "buyer": "municipalities · participatory planners",
+    "notes": "⚠ Prototype only — never released as a product."
+  },
+  {
+    "name": "MVRDV NEXT",
+    "category": "Urban Research & Experimental Platforms",
+    "description": "---",
+    "url": "https://www.mvrdv.com/themes/15/next",
+    "market": "Not a product but an R&D group; relevant as an innovation reference.",
+    "maturity": "",
+    "buyer": "n/a — R&D reference",
+    "notes": ""
+  },
+  {
+    "name": "Material Bank",
+    "category": "Materials, Products & Specifications",
+    "description": "Fast sampling and material library for architecture and interiors.",
+    "url": "https://www.materialbank.com/",
+    "market": "Strong in US architecture and interiors; expanding internationally including European design markets. 45k+ materials / 450+ brands.",
+    "maturity": "Established",
+    "buyer": "architects · interior designers",
+    "notes": ""
+  },
+  {
+    "name": "Architonic",
+    "category": "Materials, Products & Specifications",
+    "description": "Product directory and inspiration platform for design professionals.",
+    "url": "https://www.architonic.com/",
+    "market": "Strong in Europe, especially CH, DE and FR; widely used by architects and interior designers.",
+    "maturity": "Established",
+    "buyer": "architects · interior designers · specifiers",
+    "notes": "⚠ Catalogue figures are self-reported."
+  },
+  {
+    "name": "BIMobject",
+    "category": "Materials, Products & Specifications",
+    "description": "Marketplace for manufacturer BIM objects and product data.",
+    "url": "https://www.bimobject.com/en",
+    "market": "Global manufacturer-content platform; strong in Europe and growing in North America.",
+    "maturity": "Established",
+    "buyer": "architects · BIM managers · manufacturers",
+    "notes": ""
+  },
+  {
+    "name": "Scawo3D",
+    "category": "Materials, Products & Specifications",
+    "description": "3D product/catalog content and 3D concrete printing (Selective Paste Intrusion).",
+    "url": "https://www.scawo3d.com/",
+    "market": "Niche; likely manufacturer- or catalogue-oriented. Research ties to TRR 277 / AMC.",
+    "maturity": "Experimental",
+    "buyer": "manufacturers · fabricators",
+    "notes": ""
+  },
+  {
+    "name": "Arquiz",
+    "category": "Materials, Products & Specifications",
+    "description": "French platform for architecture training, media and project resources.",
+    "url": "https://www.arquiz.fr/",
+    "market": "France-oriented; most relevant to the French market. Qualiopi-certified, OPCO-fundable.",
+    "maturity": "Emerging (FR)",
+    "buyer": "AEC professionals (France)",
+    "notes": ""
+  },
+  {
+    "name": "AAL Innovation",
+    "category": "Materials, Products & Specifications",
+    "description": "---",
+    "url": "https://www.aalinnovationai.com/",
+    "market": "Niche/early-stage.",
+    "maturity": "Emerging",
+    "buyer": "AEC professionals · firms (Hong Kong)",
+    "notes": ""
+  },
+  {
+    "name": "RELEASE [AEC]",
+    "category": "Events & Signal Sources",
+    "description": "Paris, Cité des Sciences — AEC conference and liveness signal.",
+    "url": "https://www.release-aec.com/",
+    "market": "",
+    "maturity": "",
+    "buyer": "",
+    "notes": "Sponsors are a useful liveness signal, not a quality signal. ~30 entries above came from here."
+  },
+  {
+    "name": "buildingtech.pro",
+    "category": "Events & Signal Sources",
+    "description": "619 AEC tools scored 1–5 on maturity, specificity, integration, value and evidence, plus red flags.",
+    "url": "https://buildingtech.pro/",
+    "market": "",
+    "maturity": "",
+    "buyer": "",
+    "notes": "An independent scoring reference for the tools listed above."
+  },
+  {
+    "name": "Cambashi BIM/AECO Observatory",
+    "category": "Events & Signal Sources",
+    "description": "Paid market-share data across 53+ countries.",
+    "url": "https://cambashi.com/bim/",
+    "market": "",
+    "maturity": "",
+    "buyer": "",
+    "notes": "The commercial source of record for BIM market-share claims."
+  },
+  {
+    "name": "GEM Revit market share report",
+    "category": "Events & Signal Sources",
+    "description": "---",
+    "url": "https://www.gemdsb.com/blog/revit-market-share-2026-report",
+    "market": "",
+    "maturity": "",
+    "buyer": "",
+    "notes": "Third-party source for Revit adoption figures quoted in market notes."
+  }
+]
