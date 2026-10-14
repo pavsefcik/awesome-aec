@@ -1,7 +1,7 @@
 # Awesome AEC
 
 A working inventory of software, platforms and tools used across architecture, engineering,
-construction and the built environment — **108 entries across 15 categories**.
+construction and the built environment — **108 entries across 16 categories**.
 
 Each entry follows the same shape:
 
@@ -14,14 +14,15 @@ Each entry follows the same shape:
 
 - [Design & CAD](#design--cad)
 - [Computational & Specialist 3D](#computational--specialist-3d)
-- [Emerging Design & AI-Native Platforms](#emerging-design--ai-native-platforms)
-- [AI Design Workspaces & Agents](#ai-design-workspaces--agents)
+- [Web-Native Design & Documentation Platforms](#web-native-design--documentation-platforms)
+- [AI Agents & Automated Drafting](#ai-agents--automated-drafting)
+- [Site, Planning & Data-Driven Design](#site-planning--data-driven-design)
 - [Visualization & Rendering](#visualization--rendering)
 - [AI Visualization & Imagery — Architecture-Specific](#ai-visualization--imagery--architecture-specific)
 - [AI Imagery & Creative Tools — General-Purpose](#ai-imagery--creative-tools--general-purpose)
 - [Materials, Products & Specifications](#materials-products--specifications)
 - [Practice Operations & AI for AEC Firms](#practice-operations--ai-for-aec-firms)
-- [Urban Research & Experimental Platforms](#urban-research--experimental-platforms)
+- [Research & Experimental Platforms](#research--experimental-platforms)
 - [Structural & MEP Engineering](#structural--mep-engineering)
 - [Open BIM, Interoperability & Data](#open-bim-interoperability--data)
 - [Sustainability, Performance & Carbon](#sustainability-performance--carbon)
@@ -139,7 +140,7 @@ Cloud tool for early-stage site, massing and environmental design.
 
 ---
 
-## Emerging Design & AI-Native Platforms
+## Web-Native Design & Documentation Platforms
 
 #### [Rayon](https://www.rayon.design/)
 Collaborative online CAD for architectural drawings.
@@ -166,46 +167,11 @@ Cloud BIM/modelling platform for collaborative building design.
 **Market:** Early-stage European-origin platform; potential relevance in CH/DE/FR, but still niche. **Emerging.**
 **Buyer:** BIM managers · model authors
 
-#### [That Open Platform](https://platform.thatopen.com/)
-Open-source infrastructure for openBIM apps and data.
-**Market:** Global developer/open-source ecosystem; relevant wherever IFC/openBIM is prioritized, including CH, DE and FR. **Growing (open source).**
-**Buyer:** developers · BIM managers
-
-#### [Giraffe](https://www.giraffe.build/)
-Cloud platform for site planning and urban design.
-**Market:** More common in planning, masterplanning and proptech contexts; strongest early traction in anglophone markets. **Growing.**
-**Buyer:** urban planners · developers · proptech
-
-#### [Spacio](https://spacio.ai/)
-Data-driven design and AEC workflow platform.
-**Market:** Emerging; likely relevant to data-driven practices rather than broad market adoption. **Emerging.**
-**Buyer:** data-driven designers · planners
-
-#### [Hypar](https://hypar.io/)
-Generative design platform for building systems and layouts.
-**Market:** Specialist generative-design platform; adoption among advanced computational teams, especially in the US. **Emerging.** Pivoted away from computational design in 2024.
-**Buyer:** computational designers · engineers
-
-#### [Finch](https://www.finch3d.com/)
-AI-assisted generative floorplan and layout design.
-**Market:** Early-stage AI/generative design; interest from architecture firms exploring automation. **Emerging.**
-**Buyer:** architects · multi-family developers
-
-#### [Augmenta](https://www.augmenta.ai/)
-AI automation for building design and engineering — starting with electrical, extending into MEP.
-**Market:** Early-stage automation for building systems/design; primarily innovation-led adoption. **Emerging.** Distinct from the unrelated agritech company acquired by CNH in 2023.
-**Buyer:** MEP engineers · electrical engineers
-
-#### [Branch3D](https://www.branch3d.com/)
-Real-time structural design and analysis with live carbon feedback.
-**Market:** Niche/early-stage; market presence likely limited and project-specific. Incubated within StructureCraft, Vancouver. **Emerging.**
-**Buyer:** structural engineers
-
 ---
 
 ---
 
-## AI Design Workspaces & Agents
+## AI Agents & Automated Drafting
 
 #### [xFigura](https://www.xfigura.ai)
 AI-powered BIM data and model intelligence tool; collaborative AI canvas with Rhino/Revit integrations.
@@ -222,11 +188,6 @@ AI platform for architectural project data and archives — BIM task automation,
 **Market:** Early-stage/niche. ⚠ `arkyv.org` is an unrelated text-world engine. **Emerging.**
 **Buyer:** architects · BIM managers
 
-#### [AIRI lab](https://airilab.com)
-AI research and tools for the built environment — concept generation, cloud generative 3D, agentic workflows.
-**Market:** Early-stage/niche. ⚠ Own site spells it "AIRIlab". **Emerging.**
-**Buyer:** designers · innovation teams
-
 #### [Reer](https://www.reer.co)
 Agentic layer automating Rhino, Grasshopper and Revit workflows.
 **Market:** Early-stage/niche. ⚠ Canonical domain is `reer.co`, not `reer.ai`. **Emerging.**
@@ -241,6 +202,32 @@ Composable agentic AI across Rhino and Grasshopper.
 Agentic AI across the architectural workflow — layouts and massing, building and component modeling, drawing production and compliance checks — editing live Revit and AutoCAD sessions.
 **Market:** Early-stage; founded 2025 in San Francisco, small team, no disclosed funding. **Emerging.**
 **Buyer:** architects · drafters · BIM managers · BIM developers
+
+---
+
+---
+
+## Site, Planning & Data-Driven Design
+
+#### [Giraffe](https://www.giraffe.build/)
+Cloud platform for site planning and urban design.
+**Market:** More common in planning, masterplanning and proptech contexts; strongest early traction in anglophone markets. **Growing.**
+**Buyer:** urban planners · developers · proptech
+
+#### [Hypar](https://hypar.io/)
+Generative design platform for building systems and layouts.
+**Market:** Specialist generative-design platform; adoption among advanced computational teams, especially in the US. **Emerging.** Pivoted away from computational design in 2024.
+**Buyer:** computational designers · engineers
+
+#### [Finch](https://www.finch3d.com/)
+AI-assisted generative floorplan and layout design.
+**Market:** Early-stage AI/generative design; interest from architecture firms exploring automation. **Emerging.**
+**Buyer:** architects · multi-family developers
+
+#### [Spacio](https://spacio.ai/)
+Data-driven design and AEC workflow platform.
+**Market:** Emerging; likely relevant to data-driven practices rather than broad market adoption. **Emerging.**
+**Buyer:** data-driven designers · planners
 
 ---
 
@@ -417,7 +404,7 @@ Deploys, versions and governs Dynamo/Grasshopper scripts across Revit, Rhino and
 
 ---
 
-## Urban Research & Experimental Platforms
+## Research & Experimental Platforms
 
 *Less conventional commercial products, and more research, civic-tech or experimental design tools.*
 
@@ -451,6 +438,11 @@ MVRDV's research and innovation unit.
 **Market:** Not a product but an R&D group; relevant as an innovation reference. **n/a.**
 **Buyer:** n/a — R&D reference
 
+#### [AIRI lab](https://airilab.com)
+AI research and tools for the built environment — concept generation, cloud generative 3D, agentic workflows.
+**Market:** Early-stage/niche. ⚠ Own site spells it "AIRIlab". **Emerging.**
+**Buyer:** designers · innovation teams
+
 ---
 
 ---
@@ -472,10 +464,20 @@ Steel connection and structural joint design.
 **Market:** Strong among structural engineers and fabricators in Europe including CH, DE and FR; growing US adoption. **Growing.**
 **Buyer:** structural engineers · fabricators
 
+#### [Branch3D](https://www.branch3d.com/)
+Real-time structural design and analysis with live carbon feedback.
+**Market:** Niche/early-stage; market presence likely limited and project-specific. Incubated within StructureCraft, Vancouver. **Emerging.**
+**Buyer:** structural engineers
+
 #### [MagiCAD](https://www.magicad.com/)
 MEP design and calculation inside BIM platforms.
 **Market:** Especially established in Northern Europe and DACH; relevant where Revit-based MEP design is standardized. **Established.**
 **Buyer:** MEP engineers
+
+#### [Augmenta](https://www.augmenta.ai/)
+AI automation for building design and engineering — starting with electrical, extending into MEP.
+**Market:** Early-stage automation for building systems/design; primarily innovation-led adoption. **Emerging.** Distinct from the unrelated agritech company acquired by CNH in 2023.
+**Buyer:** MEP engineers · electrical engineers
 
 ---
 
@@ -491,6 +493,11 @@ Open platform for sharing and versioning AEC model data.
 #### [IfcOpenShell](https://ifcopenshell.org/)
 Open-source toolkit for reading, writing and processing IFC.
 **Market:** Global open-source standard for IFC automation; used by BIM managers and developers. **Established (open source).**
+**Buyer:** developers · BIM managers
+
+#### [That Open Platform](https://platform.thatopen.com/)
+Open-source infrastructure for openBIM apps and data.
+**Market:** Global developer/open-source ecosystem; relevant wherever IFC/openBIM is prioritized, including CH, DE and FR. **Growing (open source).**
 **Buyer:** developers · BIM managers
 
 #### [Bonsai](https://bonsaibim.org/)
