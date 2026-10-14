@@ -1,7 +1,7 @@
 # Awesome AEC
 
 A working inventory of software, platforms and tools used across architecture, engineering,
-construction and the built environment — **108 entries across 16 categories**.
+construction and the built environment — **124 entries across 18 categories**.
 
 Each entry follows the same shape:
 
@@ -25,9 +25,11 @@ Each entry follows the same shape:
 - [Research & Experimental Platforms](#research--experimental-platforms)
 - [Structural & MEP Engineering](#structural--mep-engineering)
 - [Open BIM, Interoperability & Data](#open-bim-interoperability--data)
+- [Compliance, Codes & Plan Review](#compliance-codes--plan-review)
 - [Sustainability, Performance & Carbon](#sustainability-performance--carbon)
 - [Reality Capture & Digital Twins](#reality-capture--digital-twins)
 - [Coordination, CDE & Construction Management](#coordination-cde--construction-management)
+- [Media, Learning & Community](#media-learning--community)
 - [Market Patterns](#market-patterns)
 
 > **Reading the market column.** Adoption notes are directional, not exhaustive — they vary by
@@ -202,6 +204,16 @@ Composable agentic AI across Rhino and Grasshopper.
 Agentic AI across the architectural workflow — layouts and massing, building and component modeling, drawing production and compliance checks — editing live Revit and AutoCAD sessions.
 **Market:** Early-stage; founded 2025 in San Francisco, small team, no disclosed funding. **Emerging.**
 **Buyer:** architects · drafters · BIM managers · BIM developers
+
+#### [Raven AI](https://www.raven.build/en)
+AI assistant layer running inside Rhino and Grasshopper, working across the existing plugin ecosystem.
+**Market:** Early-stage; traction concentrated among computational designers in Rhino/Grasshopper-native workflows. **Emerging.**
+**Buyer:** computational designers · architects
+
+#### [Bimify](https://www.bimify.com/)
+Creates and maintains digital building models from any input format using automated, ML-driven processes.
+**Market:** Early-stage; aimed at digitizing existing building stock and asset models rather than new design. **Emerging.**
+**Buyer:** BIM managers · asset owners
 
 ---
 
@@ -400,6 +412,16 @@ Deploys, versions and governs Dynamo/Grasshopper scripts across Revit, Rhino and
 **Market:** Emerging; likely relevant to project operations and data workflows. **Emerging.**
 **Buyer:** BIM managers · computational designers
 
+#### [Cogram](https://cogram.com/)
+AI agents for practice administration — RFIs and submittals, meeting minutes, email filing and field reports.
+**Market:** Early-stage; aimed at firms where project administration is the bottleneck, with Procore sync. **Emerging.**
+**Buyer:** project managers · architects · engineers
+
+#### [ProjectPulse](https://projectpulse5d.com/)
+Connects BIM design data to live construction costs — option comparison, change tracking and a costed BOQ before design is finalized.
+**Market:** Early-stage; 5D/cost-visible design workflows. **Emerging.**
+**Buyer:** architects · cost estimators · quantity surveyors
+
 ---
 
 ---
@@ -479,6 +501,41 @@ AI automation for building design and engineering — starting with electrical, 
 **Market:** Early-stage automation for building systems/design; primarily innovation-led adoption. **Emerging.** Distinct from the unrelated agritech company acquired by CNH in 2023.
 **Buyer:** MEP engineers · electrical engineers
 
+#### [HVAKR](https://www.hvakr.com/)
+Collaborative HVAC and mechanical design — takeoffs, data and calculations in one place, with AI assistance.
+**Market:** Early-stage; targets mechanical/HVAC design teams. **Emerging.**
+**Buyer:** mechanical engineers · HVAC designers
+
+#### [Bimrock AI](https://bimrock.ai/)
+Automates MEP design in Revit — annotation, routing and coordination.
+**Market:** Early-stage; Revit-dependent MEP automation. **Emerging.**
+**Buyer:** MEP engineers · BIM managers
+
+#### [Endra](https://www.endra.ai/)
+MEP engineering platform that generates 3D models and drawings and syncs with Revit.
+**Market:** Early-stage; targets MEP teams moving away from manual modelling. **Emerging.**
+**Buyer:** MEP engineers
+
+#### [MEPAIA](https://mepaia.ai/)
+AI engineering layer on Revit for MEP design — modelling, calculations, drawings, equipment selection, technical descriptions, tender documentation and cost estimation.
+**Market:** Early-stage; focused on complex industrial and life-science facilities rather than standard building work. **Emerging.**
+**Buyer:** MEP engineers · industrial project engineers
+
+#### [Cordax](https://cordax.io/)
+Generates coordinated, clash-checked electrical and MEP routing from IFC and Revit models.
+**Market:** Early-stage; commercial electrical coordination. **Emerging.**
+**Buyer:** electrical engineers · MEP engineers
+
+#### [VIKTOR](https://www.viktor.ai/)
+Low-code platform for building engineering apps and agents; automates workflows and connects to existing engineering software.
+**Market:** Growing among engineering firms building internal automation; a reference platform for scripted engineering tooling. **Growing.**
+**Buyer:** engineers · computational engineers · automation teams
+
+#### [CalcTree](https://www.calctree.com/)
+Engineering calculation management — build, run and review calculations with AI, as a traceable alternative to spreadsheets and Mathcad.
+**Market:** Early-stage; positioned against spreadsheets in engineering teams. **Emerging.**
+**Buyer:** engineers · engineering teams
+
 ---
 
 ---
@@ -509,6 +566,29 @@ Open-source BIM authoring built on Blender.
 .NET toolkit for building IFC/BIM applications.
 **Market:** Developer-oriented; used in custom BIM solutions rather than by typical design teams. **Emerging (open source).**
 **Buyer:** .NET developers
+
+---
+
+---
+
+## Compliance, Codes & Plan Review
+
+#### [CodeComply](https://codecomply.ai/)
+AI plan review and building-code analysis for permitting workflows; the plan-review tool inside CivicPlus.
+**Market:** US-first; adoption is driven by permitting authorities, since it is embedded in a platform used by 850+ local governments rather than sold to design firms. **Emerging.**
+**Buyer:** plan reviewers · code officials · permitting authorities
+
+#### [Kestrel Labs](https://kestrellabs.com/)
+Checks building-code compliance inside the BIM model, locating each violation on its element with the exact code section cited.
+**Market:** Early-stage; code sets licensed directly from the ICC, so coverage is US-centric. **Emerging.**
+**Buyer:** architects · code consultants · BIM managers
+
+#### [ArchiBoost](https://www.archiboost.ai/)
+AI code-compliance and QA/QC review of drawings and models against firm standards at construction-documentation milestones.
+**Market:** Early-stage; aimed at architecture firms' QA/QC and CD-stage checks (50/95/100% CD, IFP, IFC). **Emerging.**
+**Buyer:** architects · QA/QC leads · BIM managers
+
+---
 
 ---
 
@@ -668,6 +748,23 @@ Mobile field-management app for tasks, plans and punch lists.
 
 ---
 
+---
+
+## Media, Learning & Community
+
+*Channels that demo, review and interview the tools in this list.*
+
+#### [AI in AEC ⚡ — Stjepan Mikulić](https://www.youtube.com/@stjepanmikulic)
+Single-tool video sessions with AEC software founders — demos and interviews, weighted toward early-stage AI startups in compliance, MEP, documentation and practice tooling.
+**Market:** Small but dense (70+ videos); a useful discovery index for early-stage AEC AI tools. **Growing.**
+**Buyer:** architects · engineers · BIM managers · tool scouts
+
+#### [ArchiTech Network](https://www.youtube.com/@architech.network)
+Interviews, tool workshops and conference talks across AEC technology — founder episodes, ATN Summit sessions and office tours (BIG, Heatherwick, MVRDV, KPF, UNStudio, ICD).
+**Market:** Largest reach of the two (60+ videos plus live workshops); mixes tool deep-dives with practice and industry interviews. **Growing.**
+**Buyer:** architects · engineers · industry observers
+
+---
 
 ---
 
