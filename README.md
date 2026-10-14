@@ -1,7 +1,7 @@
 # Awesome AEC
 
 A working inventory of software, platforms and tools used across architecture, engineering,
-construction and the built environment — **107 entries across 15 categories**.
+construction and the built environment — **108 entries across 15 categories**.
 
 Each entry follows the same shape:
 
@@ -236,6 +236,11 @@ Agentic layer automating Rhino, Grasshopper and Revit workflows.
 Composable agentic AI across Rhino and Grasshopper.
 **Market:** Early-stage/niche. **Emerging.**
 **Buyer:** computational designers
+
+#### [Ideatura](https://ideatura.ai)
+Agentic AI across the architectural workflow — layouts and massing, building and component modeling, drawing production and compliance checks — editing live Revit and AutoCAD sessions.
+**Market:** Early-stage; founded 2025 in San Francisco, small team, no disclosed funding. **Emerging.**
+**Buyer:** architects · drafters · BIM managers · BIM developers
 
 ---
 
