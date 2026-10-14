@@ -22,7 +22,7 @@ Each entry follows the same shape:
 - [AI Imagery & Creative Tools — General-Purpose](#ai-imagery--creative-tools--general-purpose)
 - [Materials, Products & Specifications](#materials-products--specifications)
 - [Practice Operations & AI for AEC Firms](#practice-operations--ai-for-aec-firms)
-- [Research & Experimental Platforms](#research--experimental-platforms)
+- [Firm R&D & Innovation Labs](#firm-rd--innovation-labs)
 - [Structural & MEP Engineering](#structural--mep-engineering)
 - [Open BIM, Interoperability & Data](#open-bim-interoperability--data)
 - [Compliance, Codes & Plan Review](#compliance-codes--plan-review)
@@ -226,6 +226,11 @@ Cloud platform for site planning and urban design.
 **Market:** More common in planning, masterplanning and proptech contexts; strongest early traction in anglophone markets. **Growing.**
 **Buyer:** urban planners · developers · proptech
 
+#### [Cityweft](https://www.cityweft.com/)
+Urban data and city-design analytics platform; editable 3D site and city models.
+**Market:** Niche; relevant to urban analytics and planning innovation. **Experimental.**
+**Buyer:** urban planners · architects
+
 #### [Hypar](https://hypar.io/)
 Generative design platform for building systems and layouts.
 **Market:** Specialist generative-design platform; adoption among advanced computational teams, especially in the US. **Emerging.** Pivoted away from computational design in 2024.
@@ -426,14 +431,9 @@ Connects BIM design data to live construction costs — option comparison, chang
 
 ---
 
-## Research & Experimental Platforms
+## Firm R&D & Innovation Labs
 
-*Less conventional commercial products, and more research, civic-tech or experimental design tools.*
-
-#### [Cityweft](https://www.cityweft.com/)
-Urban data and city-design analytics platform; editable 3D site and city models.
-**Market:** Niche; relevant to urban analytics and planning innovation. **Experimental.**
-**Buyer:** urban planners · architects
+*Non-commercial research output from practices and labs — research tools, prototypes and R&D units rather than products you can buy or adopt.*
 
 #### [RoofScape](https://www.mvrdv.com/projects/929/roofscape)
 MVRDV research project on activating urban roofs.
