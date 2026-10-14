@@ -228,7 +228,7 @@ Cloud platform for site planning and urban design.
 
 #### [Cityweft](https://www.cityweft.com/)
 Urban data and city-design analytics platform; editable 3D site and city models.
-**Market:** Niche; relevant to urban analytics and planning innovation. **Experimental.**
+**Market:** Niche; relevant to urban analytics and planning innovation. **Emerging.**
 **Buyer:** urban planners · architects
 
 #### [Hypar](https://hypar.io/)
