@@ -536,6 +536,11 @@ Engineering calculation management — build, run and review calculations with A
 **Market:** Early-stage; positioned against spreadsheets in engineering teams. **Emerging.**
 **Buyer:** engineers · engineering teams
 
+#### [RayCAD](https://getraycad.com/?utm_source=awesome-aec)
+Revit plugin that automates MEPF tagging and annotation of shop drawings, with non-overlapping tags that follow a firm's own standard.
+**Market:** Early-stage; Revit-based MEP drawing automation, HVAC and piping today. **Emerging.**
+**Buyer:** MEP engineers · BIM managers · drafters
+
 ---
 
 ---
