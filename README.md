@@ -169,6 +169,11 @@ Cloud BIM/modelling platform for collaborative building design.
 **Market:** Early-stage European-origin platform; potential relevance in CH/DE/FR, but still niche. **Emerging.**
 **Buyer:** BIM managers · model authors
 
+#### [Room Meadow](https://roommeadow.com/floor-plan-maker)
+Browser-based 2D room sketches from measurements, with furniture layouts and free watermarked PNG export. Print-to-scale PDF export uses credits.
+**Market:** Public web app for early layout studies. Regional adoption is not independently established.
+**Buyer:** property owners · interior space planners
+
 ---
 
 ---
