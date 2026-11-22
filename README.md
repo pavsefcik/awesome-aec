@@ -306,6 +306,11 @@ AI platform turning sketches into 2D visuals, 3D models and client-ready boards.
 **Market:** Early-stage; market presence still forming. **Emerging.**
 **Buyer:** architects · marketing & BD teams
 
+#### [ArchitecturesAI](https://architecturesai.com/)
+Browser-based AI renders from prompts, sketches, floor plans and photos: interior, exterior, landscape and virtual staging.
+**Market:** Early-stage; freemium, paid plans from $6.99/week. **Emerging.**
+**Buyer:** small studios · home owners · real estate agents
+
 ---
 
 ## AI Imagery & Creative Tools — General-Purpose
